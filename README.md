@@ -1,2 +1,2 @@
-# https-github.com-new
+# AdventOfCode_2020
 https://adventofcode.com/2020
