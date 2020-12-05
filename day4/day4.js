@@ -11,7 +11,7 @@
  * 
  * @return {string[]}      Array of string from file lines
  */
-function getInputs(file, callback) {
+function getInputs(file) {
     const fs = require('fs');
     return fs.readFileSync(file, 'utf8').toString();
 }
@@ -129,4 +129,4 @@ function main() {
 }
 
 
-main()
+main();
