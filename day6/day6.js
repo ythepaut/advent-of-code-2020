@@ -66,7 +66,7 @@ function commonYesAnswerCount(input) {
 
 
 function main() {
-    const input = getInputs("./inputs.txt");
+    const input = getInputs("./input.txt");
     console.log("Part 1 : Yes count = " + yesAnswerCount(input));
     console.log("Part 2 : Common yes count = " + commonYesAnswerCount(input));
 }

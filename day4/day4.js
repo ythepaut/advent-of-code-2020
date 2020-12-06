@@ -112,7 +112,7 @@ function isValidPassport2(passport) {
 
 function main() {
 
-    const passports = getPassports(getInputs("./inputs.txt"));
+    const passports = getPassports(getInputs("./input.txt"));
 
     let validCount1 = 0;
     let validCount2 = 0;

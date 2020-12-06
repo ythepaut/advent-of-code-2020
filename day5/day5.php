@@ -122,7 +122,7 @@ function getMySeat(array $seats) {
 
 
 function main() {
-    $seats = getInputs("./inputs.txt");
+    $seats = getInputs("./input.txt");
     echo("Part 1, max seat ID : " . highestSeatID($seats) . "\n");
     echo("Part 2, my seat ID is : " . getMySeat($seats) . "\n");
 }

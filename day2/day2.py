@@ -45,7 +45,7 @@ def part2(inputs):
 
 
 def main():
-    inputs = get_inputs("inputs.txt")
+    inputs = get_inputs("./input.txt")
     part1(inputs)
     part2(inputs)
 

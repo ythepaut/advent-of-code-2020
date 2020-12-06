@@ -18,7 +18,7 @@ def get_inputs(path):
 
 
 def main():
-    inputs = get_inputs("inputs.txt")
+    inputs = get_inputs("./input.txt")
     
     # A better method would be to only compare relevant inputs between them
     # but it requires the inputs to be sorted.

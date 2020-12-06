@@ -51,7 +51,7 @@ function getTreeCount(inputs, stepX, stepY) {
 function main() {
 
     // Getting inputs
-    let inputs = getInputs("inputs.txt");
+    let inputs = getInputs("./input.txt");
     
     const steps = [[1,1], [3,1], [5,1], [7,1], [1,2]];
 
