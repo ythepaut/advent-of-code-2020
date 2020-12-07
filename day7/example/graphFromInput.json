@@ -1,0 +1,8634 @@
+[
+    {
+      "bag": "drab tan",
+      "containedBy": [
+        {
+          "bag": "shiny white",
+          "count": 1
+        },
+        {
+          "bag": "wavy gray",
+          "count": 2
+        },
+        {
+          "bag": "wavy tomato",
+          "count": 1
+        },
+        {
+          "bag": "dark tan",
+          "count": 4
+        },
+        {
+          "bag": "pale plum",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "clear gold",
+      "containedBy": [
+        {
+          "bag": "drab tan",
+          "count": 4
+        },
+        {
+          "bag": "faded cyan",
+          "count": 5
+        },
+        {
+          "bag": "dull fuchsia",
+          "count": 2
+        },
+        {
+          "bag": "vibrant maroon",
+          "count": 1
+        },
+        {
+          "bag": "bright cyan",
+          "count": 2
+        },
+        {
+          "bag": "light yellow",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "vibrant lime",
+      "containedBy": []
+    },
+    {
+      "bag": "faded gold",
+      "containedBy": [
+        {
+          "bag": "vibrant lime",
+          "count": 3
+        },
+        {
+          "bag": "shiny white",
+          "count": 2
+        },
+        {
+          "bag": "light gray",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "plaid aqua",
+      "containedBy": [
+        {
+          "bag": "vibrant lime",
+          "count": 3
+        },
+        {
+          "bag": "bright olive",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "clear black",
+      "containedBy": [
+        {
+          "bag": "vibrant lime",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "pale lime",
+      "containedBy": []
+    },
+    {
+      "bag": "dim salmon",
+      "containedBy": [
+        {
+          "bag": "pale lime",
+          "count": 1
+        },
+        {
+          "bag": "faded silver",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "faded salmon",
+      "containedBy": [
+        {
+          "bag": "pale lime",
+          "count": 5
+        },
+        {
+          "bag": "clear lavender",
+          "count": 2
+        },
+        {
+          "bag": "light gold",
+          "count": 2
+        },
+        {
+          "bag": "plaid coral",
+          "count": 2
+        },
+        {
+          "bag": "mirrored tan",
+          "count": 3
+        },
+        {
+          "bag": "dull orange",
+          "count": 4
+        },
+        {
+          "bag": "muted indigo",
+          "count": 5
+        },
+        {
+          "bag": "bright crimson",
+          "count": 4
+        },
+        {
+          "bag": "dull indigo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dim turquoise",
+      "containedBy": [
+        {
+          "bag": "pale lime",
+          "count": 1
+        },
+        {
+          "bag": "wavy white",
+          "count": 3
+        },
+        {
+          "bag": "mirrored red",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dull gray",
+      "containedBy": [
+        {
+          "bag": "pale lavender",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "striped gold",
+      "containedBy": [
+        {
+          "bag": "dull gray",
+          "count": 1
+        },
+        {
+          "bag": "bright orange",
+          "count": 3
+        },
+        {
+          "bag": "dark violet",
+          "count": 3
+        },
+        {
+          "bag": "drab coral",
+          "count": 4
+        },
+        {
+          "bag": "dim white",
+          "count": 3
+        },
+        {
+          "bag": "dotted crimson",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "vibrant yellow",
+      "containedBy": [
+        {
+          "bag": "dull gray",
+          "count": 1
+        },
+        {
+          "bag": "striped white",
+          "count": 3
+        },
+        {
+          "bag": "dim silver",
+          "count": 1
+        },
+        {
+          "bag": "vibrant gray",
+          "count": 3
+        },
+        {
+          "bag": "drab olive",
+          "count": 5
+        },
+        {
+          "bag": "dark gray",
+          "count": 5
+        },
+        {
+          "bag": "dark silver",
+          "count": 3
+        },
+        {
+          "bag": "posh crimson",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "light fuchsia",
+      "containedBy": []
+    },
+    {
+      "bag": "light lavender",
+      "containedBy": [
+        {
+          "bag": "light fuchsia",
+          "count": 4
+        },
+        {
+          "bag": "muted beige",
+          "count": 2
+        },
+        {
+          "bag": "plaid green",
+          "count": 5
+        },
+        {
+          "bag": "striped bronze",
+          "count": 2
+        },
+        {
+          "bag": "dark chartreuse",
+          "count": 1
+        },
+        {
+          "bag": "wavy red",
+          "count": 4
+        },
+        {
+          "bag": "dull aqua",
+          "count": 2
+        },
+        {
+          "bag": "striped maroon",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "faded olive",
+      "containedBy": [
+        {
+          "bag": "light fuchsia",
+          "count": 5
+        },
+        {
+          "bag": "wavy purple",
+          "count": 3
+        },
+        {
+          "bag": "clear white",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "plaid cyan",
+      "containedBy": [
+        {
+          "bag": "light fuchsia",
+          "count": 4
+        },
+        {
+          "bag": "vibrant turquoise",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "striped tomato",
+      "containedBy": [
+        {
+          "bag": "light fuchsia",
+          "count": 1
+        },
+        {
+          "bag": "light violet",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "drab gold",
+      "containedBy": [
+        {
+          "bag": "faded fuchsia",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "clear teal",
+      "containedBy": [
+        {
+          "bag": "drab gold",
+          "count": 1
+        },
+        {
+          "bag": "shiny indigo",
+          "count": 4
+        },
+        {
+          "bag": "vibrant gray",
+          "count": 2
+        },
+        {
+          "bag": "striped olive",
+          "count": 1
+        },
+        {
+          "bag": "pale yellow",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dim red",
+      "containedBy": [
+        {
+          "bag": "dotted chartreuse",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dull teal",
+      "containedBy": [
+        {
+          "bag": "dim red",
+          "count": 2
+        },
+        {
+          "bag": "posh coral",
+          "count": 4
+        },
+        {
+          "bag": "dotted orange",
+          "count": 1
+        },
+        {
+          "bag": "dark salmon",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "striped orange",
+      "containedBy": [
+        {
+          "bag": "dotted lime",
+          "count": 1
+        },
+        {
+          "bag": "shiny gray",
+          "count": 1
+        },
+        {
+          "bag": "vibrant coral",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "bright fuchsia",
+      "containedBy": [
+        {
+          "bag": "striped orange",
+          "count": 1
+        },
+        {
+          "bag": "dotted turquoise",
+          "count": 2
+        },
+        {
+          "bag": "faded beige",
+          "count": 1
+        },
+        {
+          "bag": "faded yellow",
+          "count": 5
+        },
+        {
+          "bag": "plaid olive",
+          "count": 1
+        },
+        {
+          "bag": "vibrant indigo",
+          "count": 3
+        },
+        {
+          "bag": "mirrored cyan",
+          "count": 3
+        },
+        {
+          "bag": "drab teal",
+          "count": 4
+        },
+        {
+          "bag": "plaid black",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "plaid chartreuse",
+      "containedBy": [
+        {
+          "bag": "striped orange",
+          "count": 3
+        },
+        {
+          "bag": "vibrant green",
+          "count": 3
+        },
+        {
+          "bag": "muted black",
+          "count": 5
+        },
+        {
+          "bag": "bright green",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dark silver",
+      "containedBy": [
+        {
+          "bag": "striped orange",
+          "count": 4
+        },
+        {
+          "bag": "faded brown",
+          "count": 2
+        },
+        {
+          "bag": "striped aqua",
+          "count": 1
+        },
+        {
+          "bag": "muted yellow",
+          "count": 3
+        },
+        {
+          "bag": "mirrored turquoise",
+          "count": 4
+        },
+        {
+          "bag": "posh crimson",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dim maroon",
+      "containedBy": [
+        {
+          "bag": "striped orange",
+          "count": 5
+        },
+        {
+          "bag": "shiny gray",
+          "count": 2
+        },
+        {
+          "bag": "posh green",
+          "count": 5
+        },
+        {
+          "bag": "plaid orange",
+          "count": 5
+        },
+        {
+          "bag": "dark gold",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "shiny violet",
+      "containedBy": []
+    },
+    {
+      "bag": "clear orange",
+      "containedBy": [
+        {
+          "bag": "shiny violet",
+          "count": 1
+        },
+        {
+          "bag": "striped brown",
+          "count": 4
+        },
+        {
+          "bag": "clear magenta",
+          "count": 3
+        },
+        {
+          "bag": "clear yellow",
+          "count": 2
+        },
+        {
+          "bag": "drab violet",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "muted olive",
+      "containedBy": [
+        {
+          "bag": "shiny violet",
+          "count": 4
+        },
+        {
+          "bag": "faded brown",
+          "count": 2
+        },
+        {
+          "bag": "faded beige",
+          "count": 5
+        },
+        {
+          "bag": "clear cyan",
+          "count": 5
+        },
+        {
+          "bag": "clear brown",
+          "count": 2
+        },
+        {
+          "bag": "dotted red",
+          "count": 5
+        },
+        {
+          "bag": "shiny gold",
+          "count": 1
+        },
+        {
+          "bag": "dotted beige",
+          "count": 5
+        },
+        {
+          "bag": "striped bronze",
+          "count": 5
+        },
+        {
+          "bag": "drab plum",
+          "count": 1
+        },
+        {
+          "bag": "dotted black",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dark chartreuse",
+      "containedBy": [
+        {
+          "bag": "shiny violet",
+          "count": 4
+        },
+        {
+          "bag": "plaid tan",
+          "count": 4
+        },
+        {
+          "bag": "pale gray",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "shiny indigo",
+      "containedBy": [
+        {
+          "bag": "shiny violet",
+          "count": 4
+        },
+        {
+          "bag": "posh purple",
+          "count": 2
+        },
+        {
+          "bag": "dotted purple",
+          "count": 3
+        },
+        {
+          "bag": "vibrant orange",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dotted silver",
+      "containedBy": [
+        {
+          "bag": "faded olive",
+          "count": 2
+        },
+        {
+          "bag": "vibrant silver",
+          "count": 4
+        },
+        {
+          "bag": "faded aqua",
+          "count": 2
+        },
+        {
+          "bag": "wavy chartreuse",
+          "count": 4
+        },
+        {
+          "bag": "dull blue",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "clear gray",
+      "containedBy": [
+        {
+          "bag": "faded olive",
+          "count": 4
+        },
+        {
+          "bag": "drab brown",
+          "count": 3
+        },
+        {
+          "bag": "striped beige",
+          "count": 1
+        },
+        {
+          "bag": "striped indigo",
+          "count": 3
+        },
+        {
+          "bag": "posh olive",
+          "count": 3
+        },
+        {
+          "bag": "pale maroon",
+          "count": 2
+        },
+        {
+          "bag": "faded maroon",
+          "count": 5
+        },
+        {
+          "bag": "clear coral",
+          "count": 2
+        },
+        {
+          "bag": "shiny salmon",
+          "count": 1
+        },
+        {
+          "bag": "clear bronze",
+          "count": 3
+        },
+        {
+          "bag": "mirrored fuchsia",
+          "count": 3
+        },
+        {
+          "bag": "striped lavender",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dotted lime",
+      "containedBy": []
+    },
+    {
+      "bag": "dark turquoise",
+      "containedBy": [
+        {
+          "bag": "dotted lime",
+          "count": 1
+        },
+        {
+          "bag": "striped black",
+          "count": 3
+        },
+        {
+          "bag": "posh salmon",
+          "count": 5
+        },
+        {
+          "bag": "bright bronze",
+          "count": 4
+        },
+        {
+          "bag": "mirrored plum",
+          "count": 1
+        },
+        {
+          "bag": "mirrored chartreuse",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "shiny teal",
+      "containedBy": [
+        {
+          "bag": "dotted lime",
+          "count": 2
+        },
+        {
+          "bag": "faded teal",
+          "count": 5
+        },
+        {
+          "bag": "plaid salmon",
+          "count": 3
+        },
+        {
+          "bag": "shiny aqua",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "vibrant cyan",
+      "containedBy": [
+        {
+          "bag": "dotted lime",
+          "count": 2
+        },
+        {
+          "bag": "striped gold",
+          "count": 5
+        },
+        {
+          "bag": "dull lime",
+          "count": 3
+        },
+        {
+          "bag": "striped blue",
+          "count": 4
+        },
+        {
+          "bag": "dark bronze",
+          "count": 1
+        },
+        {
+          "bag": "striped chartreuse",
+          "count": 1
+        },
+        {
+          "bag": "dotted beige",
+          "count": 2
+        },
+        {
+          "bag": "dull indigo",
+          "count": 3
+        },
+        {
+          "bag": "shiny orange",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "drab magenta",
+      "containedBy": []
+    },
+    {
+      "bag": "bright yellow",
+      "containedBy": [
+        {
+          "bag": "drab magenta",
+          "count": 4
+        },
+        {
+          "bag": "muted fuchsia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dull orange",
+      "containedBy": [
+        {
+          "bag": "drab magenta",
+          "count": 5
+        },
+        {
+          "bag": "faded brown",
+          "count": 5
+        },
+        {
+          "bag": "drab turquoise",
+          "count": 3
+        },
+        {
+          "bag": "muted teal",
+          "count": 5
+        },
+        {
+          "bag": "vibrant gold",
+          "count": 4
+        },
+        {
+          "bag": "dotted silver",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "plaid tomato",
+      "containedBy": [
+        {
+          "bag": "drab magenta",
+          "count": 5
+        },
+        {
+          "bag": "posh yellow",
+          "count": 3
+        },
+        {
+          "bag": "faded brown",
+          "count": 3
+        },
+        {
+          "bag": "clear red",
+          "count": 3
+        },
+        {
+          "bag": "vibrant brown",
+          "count": 2
+        },
+        {
+          "bag": "mirrored silver",
+          "count": 4
+        },
+        {
+          "bag": "striped gray",
+          "count": 3
+        },
+        {
+          "bag": "clear black",
+          "count": 1
+        },
+        {
+          "bag": "muted turquoise",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dull black",
+      "containedBy": [
+        {
+          "bag": "bright olive",
+          "count": 5
+        },
+        {
+          "bag": "dim turquoise",
+          "count": 2
+        },
+        {
+          "bag": "faded gold",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "light olive",
+      "containedBy": [
+        {
+          "bag": "dull black",
+          "count": 4
+        },
+        {
+          "bag": "clear lavender",
+          "count": 1
+        },
+        {
+          "bag": "faded turquoise",
+          "count": 4
+        },
+        {
+          "bag": "plaid teal",
+          "count": 5
+        },
+        {
+          "bag": "posh magenta",
+          "count": 3
+        },
+        {
+          "bag": "dim lime",
+          "count": 2
+        },
+        {
+          "bag": "shiny tan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "posh turquoise",
+      "containedBy": []
+    },
+    {
+      "bag": "muted salmon",
+      "containedBy": [
+        {
+          "bag": "posh turquoise",
+          "count": 1
+        },
+        {
+          "bag": "dotted orange",
+          "count": 4
+        },
+        {
+          "bag": "pale salmon",
+          "count": 1
+        },
+        {
+          "bag": "faded blue",
+          "count": 4
+        },
+        {
+          "bag": "muted violet",
+          "count": 3
+        },
+        {
+          "bag": "shiny bronze",
+          "count": 4
+        },
+        {
+          "bag": "light salmon",
+          "count": 2
+        },
+        {
+          "bag": "wavy beige",
+          "count": 4
+        },
+        {
+          "bag": "dull blue",
+          "count": 3
+        },
+        {
+          "bag": "dull coral",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "muted black",
+      "containedBy": [
+        {
+          "bag": "posh turquoise",
+          "count": 1
+        },
+        {
+          "bag": "vibrant aqua",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "shiny turquoise",
+      "containedBy": [
+        {
+          "bag": "posh turquoise",
+          "count": 5
+        },
+        {
+          "bag": "posh chartreuse",
+          "count": 4
+        },
+        {
+          "bag": "dark teal",
+          "count": 4
+        },
+        {
+          "bag": "vibrant coral",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "muted purple",
+      "containedBy": [
+        {
+          "bag": "plaid red",
+          "count": 2
+        },
+        {
+          "bag": "faded coral",
+          "count": 5
+        },
+        {
+          "bag": "dotted tan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dotted red",
+      "containedBy": [
+        {
+          "bag": "muted purple",
+          "count": 5
+        },
+        {
+          "bag": "posh maroon",
+          "count": 2
+        },
+        {
+          "bag": "shiny gold",
+          "count": 5
+        },
+        {
+          "bag": "wavy gold",
+          "count": 4
+        },
+        {
+          "bag": "light yellow",
+          "count": 1
+        },
+        {
+          "bag": "pale coral",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "striped black",
+      "containedBy": []
+    },
+    {
+      "bag": "striped fuchsia",
+      "containedBy": [
+        {
+          "bag": "striped black",
+          "count": 1
+        },
+        {
+          "bag": "dotted salmon",
+          "count": 4
+        },
+        {
+          "bag": "bright magenta",
+          "count": 1
+        },
+        {
+          "bag": "dull plum",
+          "count": 4
+        },
+        {
+          "bag": "vibrant gold",
+          "count": 2
+        },
+        {
+          "bag": "dark purple",
+          "count": 4
+        },
+        {
+          "bag": "dark green",
+          "count": 3
+        },
+        {
+          "bag": "muted white",
+          "count": 4
+        },
+        {
+          "bag": "posh bronze",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "drab indigo",
+      "containedBy": [
+        {
+          "bag": "striped black",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "drab brown",
+      "containedBy": []
+    },
+    {
+      "bag": "light gray",
+      "containedBy": [
+        {
+          "bag": "drab brown",
+          "count": 1
+        },
+        {
+          "bag": "dim green",
+          "count": 1
+        },
+        {
+          "bag": "dotted plum",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dull coral",
+      "containedBy": [
+        {
+          "bag": "drab brown",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "pale purple",
+      "containedBy": []
+    },
+    {
+      "bag": "mirrored black",
+      "containedBy": [
+        {
+          "bag": "pale purple",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "wavy crimson",
+      "containedBy": [
+        {
+          "bag": "pale purple",
+          "count": 4
+        },
+        {
+          "bag": "muted coral",
+          "count": 2
+        },
+        {
+          "bag": "dark black",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dotted violet",
+      "containedBy": [
+        {
+          "bag": "dark turquoise",
+          "count": 1
+        },
+        {
+          "bag": "bright orange",
+          "count": 5
+        },
+        {
+          "bag": "dull lime",
+          "count": 2
+        },
+        {
+          "bag": "light magenta",
+          "count": 5
+        },
+        {
+          "bag": "plaid indigo",
+          "count": 1
+        },
+        {
+          "bag": "dark blue",
+          "count": 4
+        },
+        {
+          "bag": "bright gray",
+          "count": 3
+        },
+        {
+          "bag": "plaid purple",
+          "count": 4
+        },
+        {
+          "bag": "bright aqua",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "clear lavender",
+      "containedBy": []
+    },
+    {
+      "bag": "wavy yellow",
+      "containedBy": [
+        {
+          "bag": "clear lavender",
+          "count": 4
+        },
+        {
+          "bag": "clear tan",
+          "count": 1
+        },
+        {
+          "bag": "vibrant purple",
+          "count": 4
+        },
+        {
+          "bag": "dotted gold",
+          "count": 1
+        },
+        {
+          "bag": "wavy blue",
+          "count": 4
+        },
+        {
+          "bag": "wavy coral",
+          "count": 4
+        },
+        {
+          "bag": "light chartreuse",
+          "count": 4
+        },
+        {
+          "bag": "plaid chartreuse",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "plaid red",
+      "containedBy": [
+        {
+          "bag": "clear lavender",
+          "count": 4
+        },
+        {
+          "bag": "pale violet",
+          "count": 1
+        },
+        {
+          "bag": "dim aqua",
+          "count": 5
+        },
+        {
+          "bag": "muted gray",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "bright coral",
+      "containedBy": []
+    },
+    {
+      "bag": "bright brown",
+      "containedBy": [
+        {
+          "bag": "bright coral",
+          "count": 2
+        },
+        {
+          "bag": "posh plum",
+          "count": 3
+        },
+        {
+          "bag": "mirrored white",
+          "count": 4
+        },
+        {
+          "bag": "bright cyan",
+          "count": 3
+        },
+        {
+          "bag": "wavy lime",
+          "count": 2
+        },
+        {
+          "bag": "wavy magenta",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "posh coral",
+      "containedBy": [
+        {
+          "bag": "wavy bronze",
+          "count": 2
+        },
+        {
+          "bag": "muted cyan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "bright aqua",
+      "containedBy": [
+        {
+          "bag": "posh coral",
+          "count": 4
+        },
+        {
+          "bag": "vibrant violet",
+          "count": 5
+        },
+        {
+          "bag": "faded teal",
+          "count": 4
+        },
+        {
+          "bag": "posh tomato",
+          "count": 4
+        },
+        {
+          "bag": "dim purple",
+          "count": 3
+        },
+        {
+          "bag": "pale teal",
+          "count": 5
+        },
+        {
+          "bag": "vibrant indigo",
+          "count": 3
+        },
+        {
+          "bag": "faded aqua",
+          "count": 3
+        },
+        {
+          "bag": "faded gray",
+          "count": 1
+        },
+        {
+          "bag": "shiny aqua",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "drab lime",
+      "containedBy": [
+        {
+          "bag": "dim salmon",
+          "count": 4
+        },
+        {
+          "bag": "vibrant tomato",
+          "count": 4
+        },
+        {
+          "bag": "shiny maroon",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "striped tan",
+      "containedBy": [
+        {
+          "bag": "drab lime",
+          "count": 4
+        },
+        {
+          "bag": "clear turquoise",
+          "count": 3
+        },
+        {
+          "bag": "mirrored cyan",
+          "count": 4
+        },
+        {
+          "bag": "pale gray",
+          "count": 2
+        },
+        {
+          "bag": "faded red",
+          "count": 2
+        },
+        {
+          "bag": "faded violet",
+          "count": 1
+        },
+        {
+          "bag": "vibrant orange",
+          "count": 4
+        },
+        {
+          "bag": "wavy magenta",
+          "count": 5
+        },
+        {
+          "bag": "drab plum",
+          "count": 1
+        },
+        {
+          "bag": "shiny orange",
+          "count": 2
+        },
+        {
+          "bag": "plaid brown",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "muted violet",
+      "containedBy": [
+        {
+          "bag": "drab lime",
+          "count": 4
+        },
+        {
+          "bag": "dark brown",
+          "count": 1
+        },
+        {
+          "bag": "bright plum",
+          "count": 2
+        },
+        {
+          "bag": "faded orange",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "striped brown",
+      "containedBy": [
+        {
+          "bag": "dull beige",
+          "count": 1
+        },
+        {
+          "bag": "light lime",
+          "count": 2
+        },
+        {
+          "bag": "faded orange",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dark lime",
+      "containedBy": [
+        {
+          "bag": "striped brown",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "wavy bronze",
+      "containedBy": []
+    },
+    {
+      "bag": "mirrored silver",
+      "containedBy": [
+        {
+          "bag": "wavy bronze",
+          "count": 3
+        },
+        {
+          "bag": "vibrant fuchsia",
+          "count": 3
+        },
+        {
+          "bag": "shiny bronze",
+          "count": 3
+        },
+        {
+          "bag": "pale indigo",
+          "count": 4
+        },
+        {
+          "bag": "faded chartreuse",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dim black",
+      "containedBy": [
+        {
+          "bag": "light indigo",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dark maroon",
+      "containedBy": [
+        {
+          "bag": "dim black",
+          "count": 1
+        },
+        {
+          "bag": "light lavender",
+          "count": 3
+        },
+        {
+          "bag": "shiny purple",
+          "count": 5
+        },
+        {
+          "bag": "striped tan",
+          "count": 4
+        },
+        {
+          "bag": "pale olive",
+          "count": 4
+        },
+        {
+          "bag": "dark chartreuse",
+          "count": 2
+        },
+        {
+          "bag": "light tomato",
+          "count": 4
+        },
+        {
+          "bag": "plaid brown",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "muted lavender",
+      "containedBy": [
+        {
+          "bag": "dim black",
+          "count": 4
+        },
+        {
+          "bag": "mirrored crimson",
+          "count": 4
+        },
+        {
+          "bag": "dull tomato",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "bright cyan",
+      "containedBy": [
+        {
+          "bag": "dim black",
+          "count": 3
+        },
+        {
+          "bag": "mirrored turquoise",
+          "count": 4
+        },
+        {
+          "bag": "drab aqua",
+          "count": 5
+        },
+        {
+          "bag": "faded tan",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dark plum",
+      "containedBy": [
+        {
+          "bag": "dim black",
+          "count": 3
+        },
+        {
+          "bag": "muted plum",
+          "count": 1
+        },
+        {
+          "bag": "light plum",
+          "count": 5
+        },
+        {
+          "bag": "light gray",
+          "count": 3
+        },
+        {
+          "bag": "pale black",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "posh yellow",
+      "containedBy": [
+        {
+          "bag": "dull beige",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dull plum",
+      "containedBy": [
+        {
+          "bag": "posh yellow",
+          "count": 4
+        },
+        {
+          "bag": "vibrant purple",
+          "count": 1
+        },
+        {
+          "bag": "muted red",
+          "count": 5
+        },
+        {
+          "bag": "shiny silver",
+          "count": 3
+        },
+        {
+          "bag": "plaid orange",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "shiny blue",
+      "containedBy": [
+        {
+          "bag": "posh yellow",
+          "count": 5
+        },
+        {
+          "bag": "light purple",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "pale violet",
+      "containedBy": [
+        {
+          "bag": "shiny tomato",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "posh fuchsia",
+      "containedBy": [
+        {
+          "bag": "pale violet",
+          "count": 2
+        },
+        {
+          "bag": "striped silver",
+          "count": 5
+        },
+        {
+          "bag": "muted maroon",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "mirrored bronze",
+      "containedBy": []
+    },
+    {
+      "bag": "striped lavender",
+      "containedBy": [
+        {
+          "bag": "mirrored bronze",
+          "count": 4
+        },
+        {
+          "bag": "mirrored brown",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "vibrant silver",
+      "containedBy": [
+        {
+          "bag": "posh salmon",
+          "count": 1
+        },
+        {
+          "bag": "light gray",
+          "count": 2
+        },
+        {
+          "bag": "dim teal",
+          "count": 5
+        },
+        {
+          "bag": "shiny yellow",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "posh brown",
+      "containedBy": [
+        {
+          "bag": "vibrant silver",
+          "count": 4
+        },
+        {
+          "bag": "dim indigo",
+          "count": 5
+        },
+        {
+          "bag": "mirrored tan",
+          "count": 2
+        },
+        {
+          "bag": "faded salmon",
+          "count": 5
+        },
+        {
+          "bag": "drab red",
+          "count": 2
+        },
+        {
+          "bag": "muted olive",
+          "count": 1
+        },
+        {
+          "bag": "muted lavender",
+          "count": 5
+        },
+        {
+          "bag": "light salmon",
+          "count": 3
+        },
+        {
+          "bag": "wavy brown",
+          "count": 4
+        },
+        {
+          "bag": "mirrored gray",
+          "count": 1
+        },
+        {
+          "bag": "wavy salmon",
+          "count": 4
+        },
+        {
+          "bag": "dotted white",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "clear indigo",
+      "containedBy": [
+        {
+          "bag": "vibrant silver",
+          "count": 4
+        },
+        {
+          "bag": "pale blue",
+          "count": 4
+        },
+        {
+          "bag": "muted bronze",
+          "count": 2
+        },
+        {
+          "bag": "faded blue",
+          "count": 5
+        },
+        {
+          "bag": "dark coral",
+          "count": 3
+        },
+        {
+          "bag": "wavy cyan",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "drab lavender",
+      "containedBy": [
+        {
+          "bag": "vibrant silver",
+          "count": 5
+        },
+        {
+          "bag": "dotted tan",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dark brown",
+      "containedBy": [
+        {
+          "bag": "mirrored yellow",
+          "count": 1
+        },
+        {
+          "bag": "plaid gray",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "mirrored plum",
+      "containedBy": [
+        {
+          "bag": "dark brown",
+          "count": 1
+        },
+        {
+          "bag": "muted indigo",
+          "count": 1
+        },
+        {
+          "bag": "drab yellow",
+          "count": 1
+        },
+        {
+          "bag": "light red",
+          "count": 5
+        },
+        {
+          "bag": "dull red",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "muted tomato",
+      "containedBy": [
+        {
+          "bag": "dark brown",
+          "count": 3
+        },
+        {
+          "bag": "bright violet",
+          "count": 1
+        },
+        {
+          "bag": "dull orange",
+          "count": 5
+        },
+        {
+          "bag": "dark plum",
+          "count": 2
+        },
+        {
+          "bag": "plaid turquoise",
+          "count": 5
+        },
+        {
+          "bag": "mirrored orange",
+          "count": 4
+        },
+        {
+          "bag": "clear gold",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "wavy green",
+      "containedBy": [
+        {
+          "bag": "dull beige",
+          "count": 4
+        },
+        {
+          "bag": "wavy tan",
+          "count": 2
+        },
+        {
+          "bag": "plaid silver",
+          "count": 2
+        },
+        {
+          "bag": "plaid bronze",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "posh bronze",
+      "containedBy": [
+        {
+          "bag": "wavy green",
+          "count": 2
+        },
+        {
+          "bag": "pale yellow",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dull purple",
+      "containedBy": [
+        {
+          "bag": "wavy green",
+          "count": 3
+        },
+        {
+          "bag": "plaid olive",
+          "count": 5
+        },
+        {
+          "bag": "bright gray",
+          "count": 1
+        },
+        {
+          "bag": "light crimson",
+          "count": 4
+        },
+        {
+          "bag": "dull aqua",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "wavy red",
+      "containedBy": [
+        {
+          "bag": "wavy green",
+          "count": 1
+        },
+        {
+          "bag": "dotted lavender",
+          "count": 4
+        },
+        {
+          "bag": "mirrored green",
+          "count": 5
+        },
+        {
+          "bag": "pale brown",
+          "count": 5
+        },
+        {
+          "bag": "drab cyan",
+          "count": 5
+        },
+        {
+          "bag": "shiny orange",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "light beige",
+      "containedBy": [
+        {
+          "bag": "drab indigo",
+          "count": 4
+        },
+        {
+          "bag": "dark indigo",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "light maroon",
+      "containedBy": [
+        {
+          "bag": "light beige",
+          "count": 3
+        },
+        {
+          "bag": "dull white",
+          "count": 1
+        },
+        {
+          "bag": "posh chartreuse",
+          "count": 5
+        },
+        {
+          "bag": "dull tomato",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "vibrant orange",
+      "containedBy": [
+        {
+          "bag": "light beige",
+          "count": 3
+        },
+        {
+          "bag": "vibrant crimson",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "clear blue",
+      "containedBy": [
+        {
+          "bag": "light beige",
+          "count": 4
+        },
+        {
+          "bag": "dark red",
+          "count": 3
+        },
+        {
+          "bag": "muted tomato",
+          "count": 5
+        },
+        {
+          "bag": "bright tomato",
+          "count": 3
+        },
+        {
+          "bag": "light olive",
+          "count": 4
+        },
+        {
+          "bag": "striped gold",
+          "count": 3
+        },
+        {
+          "bag": "drab green",
+          "count": 5
+        },
+        {
+          "bag": "pale teal",
+          "count": 4
+        },
+        {
+          "bag": "shiny purple",
+          "count": 1
+        },
+        {
+          "bag": "muted olive",
+          "count": 4
+        },
+        {
+          "bag": "vibrant bronze",
+          "count": 5
+        },
+        {
+          "bag": "bright tan",
+          "count": 5
+        },
+        {
+          "bag": "drab cyan",
+          "count": 5
+        },
+        {
+          "bag": "muted lavender",
+          "count": 3
+        },
+        {
+          "bag": "shiny chartreuse",
+          "count": 1
+        },
+        {
+          "bag": "wavy lavender",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "mirrored fuchsia",
+      "containedBy": [
+        {
+          "bag": "light beige",
+          "count": 3
+        },
+        {
+          "bag": "muted tomato",
+          "count": 5
+        },
+        {
+          "bag": "dim maroon",
+          "count": 1
+        },
+        {
+          "bag": "dim purple",
+          "count": 4
+        },
+        {
+          "bag": "plaid olive",
+          "count": 1
+        },
+        {
+          "bag": "pale tomato",
+          "count": 1
+        },
+        {
+          "bag": "muted blue",
+          "count": 3
+        },
+        {
+          "bag": "light blue",
+          "count": 2
+        },
+        {
+          "bag": "striped violet",
+          "count": 3
+        },
+        {
+          "bag": "wavy tomato",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "muted beige",
+      "containedBy": [
+        {
+          "bag": "wavy crimson",
+          "count": 5
+        },
+        {
+          "bag": "muted lime",
+          "count": 1
+        },
+        {
+          "bag": "bright gold",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dark olive",
+      "containedBy": [
+        {
+          "bag": "wavy crimson",
+          "count": 2
+        },
+        {
+          "bag": "striped aqua",
+          "count": 5
+        },
+        {
+          "bag": "clear maroon",
+          "count": 1
+        },
+        {
+          "bag": "dotted gold",
+          "count": 4
+        },
+        {
+          "bag": "wavy lime",
+          "count": 1
+        },
+        {
+          "bag": "dull turquoise",
+          "count": 2
+        },
+        {
+          "bag": "bright plum",
+          "count": 3
+        },
+        {
+          "bag": "pale cyan",
+          "count": 1
+        },
+        {
+          "bag": "bright purple",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "clear tan",
+      "containedBy": [
+        {
+          "bag": "wavy indigo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "posh lime",
+      "containedBy": []
+    },
+    {
+      "bag": "wavy beige",
+      "containedBy": [
+        {
+          "bag": "posh lime",
+          "count": 3
+        },
+        {
+          "bag": "plaid tan",
+          "count": 1
+        },
+        {
+          "bag": "bright salmon",
+          "count": 4
+        },
+        {
+          "bag": "faded tomato",
+          "count": 2
+        },
+        {
+          "bag": "dim lime",
+          "count": 1
+        },
+        {
+          "bag": "muted black",
+          "count": 2
+        },
+        {
+          "bag": "faded purple",
+          "count": 3
+        },
+        {
+          "bag": "drab aqua",
+          "count": 1
+        },
+        {
+          "bag": "mirrored red",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "pale blue",
+      "containedBy": [
+        {
+          "bag": "plaid maroon",
+          "count": 3
+        },
+        {
+          "bag": "light black",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dull aqua",
+      "containedBy": [
+        {
+          "bag": "pale blue",
+          "count": 5
+        },
+        {
+          "bag": "posh silver",
+          "count": 3
+        },
+        {
+          "bag": "dark beige",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "pale crimson",
+      "containedBy": [
+        {
+          "bag": "pale blue",
+          "count": 4
+        },
+        {
+          "bag": "wavy fuchsia",
+          "count": 2
+        },
+        {
+          "bag": "pale green",
+          "count": 3
+        },
+        {
+          "bag": "muted green",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dull lime",
+      "containedBy": [
+        {
+          "bag": "pale blue",
+          "count": 3
+        },
+        {
+          "bag": "striped gold",
+          "count": 1
+        },
+        {
+          "bag": "dull orange",
+          "count": 5
+        },
+        {
+          "bag": "striped blue",
+          "count": 2
+        },
+        {
+          "bag": "dark yellow",
+          "count": 3
+        },
+        {
+          "bag": "faded maroon",
+          "count": 5
+        },
+        {
+          "bag": "light yellow",
+          "count": 3
+        },
+        {
+          "bag": "plaid brown",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "wavy silver",
+      "containedBy": [
+        {
+          "bag": "dotted fuchsia",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "pale cyan",
+      "containedBy": [
+        {
+          "bag": "wavy silver",
+          "count": 1
+        },
+        {
+          "bag": "light gold",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "striped beige",
+      "containedBy": [
+        {
+          "bag": "pale beige",
+          "count": 5
+        },
+        {
+          "bag": "dim white",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dim plum",
+      "containedBy": [
+        {
+          "bag": "striped beige",
+          "count": 4
+        },
+        {
+          "bag": "dim olive",
+          "count": 4
+        },
+        {
+          "bag": "muted tan",
+          "count": 2
+        },
+        {
+          "bag": "dim gray",
+          "count": 1
+        },
+        {
+          "bag": "faded gray",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dim gold",
+      "containedBy": [
+        {
+          "bag": "dark lavender",
+          "count": 1
+        },
+        {
+          "bag": "light orange",
+          "count": 1
+        },
+        {
+          "bag": "dotted brown",
+          "count": 3
+        },
+        {
+          "bag": "shiny yellow",
+          "count": 4
+        },
+        {
+          "bag": "wavy purple",
+          "count": 5
+        },
+        {
+          "bag": "wavy lavender",
+          "count": 1
+        },
+        {
+          "bag": "clear plum",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dull cyan",
+      "containedBy": [
+        {
+          "bag": "dim gold",
+          "count": 3
+        },
+        {
+          "bag": "mirrored olive",
+          "count": 4
+        },
+        {
+          "bag": "wavy maroon",
+          "count": 1
+        },
+        {
+          "bag": "posh brown",
+          "count": 3
+        },
+        {
+          "bag": "drab maroon",
+          "count": 1
+        },
+        {
+          "bag": "clear gray",
+          "count": 2
+        },
+        {
+          "bag": "clear orange",
+          "count": 3
+        },
+        {
+          "bag": "dark coral",
+          "count": 5
+        },
+        {
+          "bag": "striped fuchsia",
+          "count": 5
+        },
+        {
+          "bag": "striped turquoise",
+          "count": 5
+        },
+        {
+          "bag": "clear gold",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "drab black",
+      "containedBy": [
+        {
+          "bag": "dim gold",
+          "count": 3
+        },
+        {
+          "bag": "bright blue",
+          "count": 5
+        },
+        {
+          "bag": "dim salmon",
+          "count": 2
+        },
+        {
+          "bag": "dark chartreuse",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dark green",
+      "containedBy": [
+        {
+          "bag": "dim gold",
+          "count": 4
+        },
+        {
+          "bag": "drab beige",
+          "count": 2
+        },
+        {
+          "bag": "drab bronze",
+          "count": 1
+        },
+        {
+          "bag": "clear cyan",
+          "count": 1
+        },
+        {
+          "bag": "plaid tomato",
+          "count": 3
+        },
+        {
+          "bag": "shiny aqua",
+          "count": 2
+        },
+        {
+          "bag": "dark tan",
+          "count": 4
+        },
+        {
+          "bag": "plaid black",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "vibrant teal",
+      "containedBy": [
+        {
+          "bag": "faded white",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "clear green",
+      "containedBy": [
+        {
+          "bag": "vibrant teal",
+          "count": 5
+        },
+        {
+          "bag": "muted bronze",
+          "count": 1
+        },
+        {
+          "bag": "mirrored purple",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "light violet",
+      "containedBy": [
+        {
+          "bag": "vibrant teal",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "bright beige",
+      "containedBy": [
+        {
+          "bag": "vibrant teal",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "light tan",
+      "containedBy": [
+        {
+          "bag": "posh orange",
+          "count": 5
+        },
+        {
+          "bag": "plaid lavender",
+          "count": 1
+        },
+        {
+          "bag": "drab crimson",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "pale red",
+      "containedBy": [
+        {
+          "bag": "light tan",
+          "count": 5
+        },
+        {
+          "bag": "light tomato",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "light turquoise",
+      "containedBy": [
+        {
+          "bag": "light tan",
+          "count": 3
+        },
+        {
+          "bag": "wavy maroon",
+          "count": 2
+        },
+        {
+          "bag": "pale teal",
+          "count": 3
+        },
+        {
+          "bag": "muted yellow",
+          "count": 4
+        },
+        {
+          "bag": "pale maroon",
+          "count": 4
+        },
+        {
+          "bag": "dark magenta",
+          "count": 1
+        },
+        {
+          "bag": "mirrored turquoise",
+          "count": 1
+        },
+        {
+          "bag": "clear teal",
+          "count": 2
+        },
+        {
+          "bag": "dotted beige",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "mirrored chartreuse",
+      "containedBy": [
+        {
+          "bag": "light tan",
+          "count": 2
+        },
+        {
+          "bag": "plaid red",
+          "count": 3
+        },
+        {
+          "bag": "shiny cyan",
+          "count": 4
+        },
+        {
+          "bag": "light maroon",
+          "count": 4
+        },
+        {
+          "bag": "pale crimson",
+          "count": 5
+        },
+        {
+          "bag": "drab violet",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dark red",
+      "containedBy": [
+        {
+          "bag": "mirrored tan",
+          "count": 3
+        },
+        {
+          "bag": "light turquoise",
+          "count": 4
+        },
+        {
+          "bag": "muted violet",
+          "count": 1
+        },
+        {
+          "bag": "mirrored green",
+          "count": 4
+        },
+        {
+          "bag": "mirrored brown",
+          "count": 4
+        },
+        {
+          "bag": "vibrant yellow",
+          "count": 5
+        },
+        {
+          "bag": "bright tan",
+          "count": 2
+        },
+        {
+          "bag": "striped bronze",
+          "count": 5
+        },
+        {
+          "bag": "pale turquoise",
+          "count": 2
+        },
+        {
+          "bag": "light tomato",
+          "count": 4
+        },
+        {
+          "bag": "clear plum",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "shiny lime",
+      "containedBy": [
+        {
+          "bag": "dark red",
+          "count": 5
+        },
+        {
+          "bag": "light lavender",
+          "count": 4
+        },
+        {
+          "bag": "bright tomato",
+          "count": 5
+        },
+        {
+          "bag": "bright violet",
+          "count": 1
+        },
+        {
+          "bag": "muted yellow",
+          "count": 2
+        },
+        {
+          "bag": "posh lavender",
+          "count": 2
+        },
+        {
+          "bag": "faded lavender",
+          "count": 5
+        },
+        {
+          "bag": "plaid black",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "posh black",
+      "containedBy": [
+        {
+          "bag": "dark red",
+          "count": 1
+        },
+        {
+          "bag": "mirrored olive",
+          "count": 4
+        },
+        {
+          "bag": "striped white",
+          "count": 2
+        },
+        {
+          "bag": "faded yellow",
+          "count": 4
+        },
+        {
+          "bag": "dull chartreuse",
+          "count": 5
+        },
+        {
+          "bag": "striped chartreuse",
+          "count": 4
+        },
+        {
+          "bag": "pale red",
+          "count": 3
+        },
+        {
+          "bag": "shiny chartreuse",
+          "count": 5
+        },
+        {
+          "bag": "dark green",
+          "count": 1
+        },
+        {
+          "bag": "striped fuchsia",
+          "count": 2
+        },
+        {
+          "bag": "clear plum",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "posh salmon",
+      "containedBy": []
+    },
+    {
+      "bag": "plaid salmon",
+      "containedBy": [
+        {
+          "bag": "posh salmon",
+          "count": 1
+        },
+        {
+          "bag": "drab fuchsia",
+          "count": 4
+        },
+        {
+          "bag": "striped violet",
+          "count": 5
+        },
+        {
+          "bag": "bright plum",
+          "count": 5
+        },
+        {
+          "bag": "pale coral",
+          "count": 1
+        },
+        {
+          "bag": "mirrored teal",
+          "count": 3
+        },
+        {
+          "bag": "plaid white",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "shiny orange",
+      "containedBy": [
+        {
+          "bag": "posh salmon",
+          "count": 1
+        },
+        {
+          "bag": "bright brown",
+          "count": 4
+        },
+        {
+          "bag": "muted maroon",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "mirrored yellow",
+      "containedBy": [
+        {
+          "bag": "drab gray",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "posh gray",
+      "containedBy": [
+        {
+          "bag": "mirrored yellow",
+          "count": 5
+        },
+        {
+          "bag": "posh silver",
+          "count": 3
+        },
+        {
+          "bag": "shiny black",
+          "count": 3
+        },
+        {
+          "bag": "dim aqua",
+          "count": 4
+        },
+        {
+          "bag": "posh chartreuse",
+          "count": 5
+        },
+        {
+          "bag": "posh fuchsia",
+          "count": 5
+        },
+        {
+          "bag": "striped bronze",
+          "count": 4
+        },
+        {
+          "bag": "dark silver",
+          "count": 2
+        },
+        {
+          "bag": "posh crimson",
+          "count": 1
+        },
+        {
+          "bag": "muted chartreuse",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "shiny silver",
+      "containedBy": [
+        {
+          "bag": "mirrored yellow",
+          "count": 1
+        },
+        {
+          "bag": "muted red",
+          "count": 1
+        },
+        {
+          "bag": "vibrant chartreuse",
+          "count": 1
+        },
+        {
+          "bag": "dotted purple",
+          "count": 5
+        },
+        {
+          "bag": "dull yellow",
+          "count": 4
+        },
+        {
+          "bag": "dim beige",
+          "count": 2
+        },
+        {
+          "bag": "faded purple",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dark fuchsia",
+      "containedBy": []
+    },
+    {
+      "bag": "plaid plum",
+      "containedBy": [
+        {
+          "bag": "dark fuchsia",
+          "count": 1
+        },
+        {
+          "bag": "clear magenta",
+          "count": 1
+        },
+        {
+          "bag": "dim plum",
+          "count": 4
+        },
+        {
+          "bag": "plaid green",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "bright bronze",
+      "containedBy": []
+    },
+    {
+      "bag": "posh silver",
+      "containedBy": [
+        {
+          "bag": "pale lavender",
+          "count": 3
+        },
+        {
+          "bag": "light blue",
+          "count": 1
+        },
+        {
+          "bag": "vibrant white",
+          "count": 2
+        },
+        {
+          "bag": "striped turquoise",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "muted gold",
+      "containedBy": [
+        {
+          "bag": "posh silver",
+          "count": 1
+        },
+        {
+          "bag": "dark olive",
+          "count": 4
+        },
+        {
+          "bag": "pale salmon",
+          "count": 1
+        },
+        {
+          "bag": "vibrant indigo",
+          "count": 2
+        },
+        {
+          "bag": "clear gray",
+          "count": 3
+        },
+        {
+          "bag": "dull purple",
+          "count": 4
+        },
+        {
+          "bag": "shiny teal",
+          "count": 4
+        },
+        {
+          "bag": "wavy turquoise",
+          "count": 4
+        },
+        {
+          "bag": "muted teal",
+          "count": 2
+        },
+        {
+          "bag": "dark tomato",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "striped chartreuse",
+      "containedBy": [
+        {
+          "bag": "posh silver",
+          "count": 2
+        },
+        {
+          "bag": "mirrored olive",
+          "count": 2
+        },
+        {
+          "bag": "dark maroon",
+          "count": 2
+        },
+        {
+          "bag": "shiny purple",
+          "count": 4
+        },
+        {
+          "bag": "muted olive",
+          "count": 2
+        },
+        {
+          "bag": "shiny teal",
+          "count": 3
+        },
+        {
+          "bag": "dark plum",
+          "count": 4
+        },
+        {
+          "bag": "striped blue",
+          "count": 3
+        },
+        {
+          "bag": "muted teal",
+          "count": 4
+        },
+        {
+          "bag": "light purple",
+          "count": 5
+        },
+        {
+          "bag": "clear aqua",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dotted salmon",
+      "containedBy": [
+        {
+          "bag": "mirrored silver",
+          "count": 5
+        },
+        {
+          "bag": "posh bronze",
+          "count": 5
+        },
+        {
+          "bag": "posh teal",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "vibrant bronze",
+      "containedBy": [
+        {
+          "bag": "dotted salmon",
+          "count": 2
+        },
+        {
+          "bag": "light turquoise",
+          "count": 1
+        },
+        {
+          "bag": "dark violet",
+          "count": 1
+        },
+        {
+          "bag": "pale maroon",
+          "count": 5
+        },
+        {
+          "bag": "pale red",
+          "count": 2
+        },
+        {
+          "bag": "dull tan",
+          "count": 1
+        },
+        {
+          "bag": "bright fuchsia",
+          "count": 5
+        },
+        {
+          "bag": "striped fuchsia",
+          "count": 2
+        },
+        {
+          "bag": "drab plum",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "striped blue",
+      "containedBy": [
+        {
+          "bag": "dotted salmon",
+          "count": 3
+        },
+        {
+          "bag": "vibrant gold",
+          "count": 2
+        },
+        {
+          "bag": "faded coral",
+          "count": 1
+        },
+        {
+          "bag": "muted lavender",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dark orange",
+      "containedBy": [
+        {
+          "bag": "wavy orange",
+          "count": 5
+        },
+        {
+          "bag": "mirrored gold",
+          "count": 2
+        },
+        {
+          "bag": "dim magenta",
+          "count": 1
+        },
+        {
+          "bag": "muted aqua",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "faded magenta",
+      "containedBy": [
+        {
+          "bag": "dark orange",
+          "count": 5
+        },
+        {
+          "bag": "light indigo",
+          "count": 4
+        },
+        {
+          "bag": "vibrant salmon",
+          "count": 1
+        },
+        {
+          "bag": "light maroon",
+          "count": 1
+        },
+        {
+          "bag": "dotted coral",
+          "count": 2
+        },
+        {
+          "bag": "wavy lavender",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "bright silver",
+      "containedBy": [
+        {
+          "bag": "wavy olive",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "drab silver",
+      "containedBy": [
+        {
+          "bag": "bright silver",
+          "count": 5
+        },
+        {
+          "bag": "vibrant blue",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "posh orange",
+      "containedBy": []
+    },
+    {
+      "bag": "plaid tan",
+      "containedBy": [
+        {
+          "bag": "posh orange",
+          "count": 4
+        },
+        {
+          "bag": "clear violet",
+          "count": 1
+        },
+        {
+          "bag": "dark black",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "mirrored olive",
+      "containedBy": [
+        {
+          "bag": "mirrored crimson",
+          "count": 2
+        },
+        {
+          "bag": "plaid indigo",
+          "count": 1
+        },
+        {
+          "bag": "striped tan",
+          "count": 5
+        },
+        {
+          "bag": "muted magenta",
+          "count": 5
+        },
+        {
+          "bag": "dark gold",
+          "count": 4
+        },
+        {
+          "bag": "dull green",
+          "count": 4
+        },
+        {
+          "bag": "faded plum",
+          "count": 5
+        },
+        {
+          "bag": "plaid chartreuse",
+          "count": 3
+        },
+        {
+          "bag": "dim chartreuse",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "drab beige",
+      "containedBy": [
+        {
+          "bag": "faded aqua",
+          "count": 2
+        },
+        {
+          "bag": "mirrored brown",
+          "count": 3
+        },
+        {
+          "bag": "light white",
+          "count": 2
+        },
+        {
+          "bag": "dark yellow",
+          "count": 4
+        },
+        {
+          "bag": "faded maroon",
+          "count": 5
+        },
+        {
+          "bag": "dotted chartreuse",
+          "count": 3
+        },
+        {
+          "bag": "striped lavender",
+          "count": 5
+        },
+        {
+          "bag": "wavy red",
+          "count": 5
+        },
+        {
+          "bag": "faded tan",
+          "count": 4
+        },
+        {
+          "bag": "light coral",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "bright maroon",
+      "containedBy": [
+        {
+          "bag": "drab beige",
+          "count": 2
+        },
+        {
+          "bag": "light lavender",
+          "count": 2
+        },
+        {
+          "bag": "posh purple",
+          "count": 5
+        },
+        {
+          "bag": "bright tomato",
+          "count": 3
+        },
+        {
+          "bag": "mirrored lavender",
+          "count": 5
+        },
+        {
+          "bag": "faded beige",
+          "count": 4
+        },
+        {
+          "bag": "clear cyan",
+          "count": 3
+        },
+        {
+          "bag": "dark maroon",
+          "count": 5
+        },
+        {
+          "bag": "clear gray",
+          "count": 3
+        },
+        {
+          "bag": "bright tan",
+          "count": 3
+        },
+        {
+          "bag": "muted cyan",
+          "count": 2
+        },
+        {
+          "bag": "dotted yellow",
+          "count": 3
+        },
+        {
+          "bag": "faded crimson",
+          "count": 5
+        },
+        {
+          "bag": "wavy tomato",
+          "count": 1
+        },
+        {
+          "bag": "dim blue",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "muted bronze",
+      "containedBy": []
+    },
+    {
+      "bag": "wavy brown",
+      "containedBy": [
+        {
+          "bag": "dark lime",
+          "count": 3
+        },
+        {
+          "bag": "dotted bronze",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "shiny chartreuse",
+      "containedBy": [
+        {
+          "bag": "dark olive",
+          "count": 1
+        },
+        {
+          "bag": "dotted teal",
+          "count": 5
+        },
+        {
+          "bag": "dark bronze",
+          "count": 4
+        },
+        {
+          "bag": "dark purple",
+          "count": 2
+        },
+        {
+          "bag": "bright fuchsia",
+          "count": 3
+        },
+        {
+          "bag": "clear purple",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dull white",
+      "containedBy": []
+    },
+    {
+      "bag": "muted crimson",
+      "containedBy": [
+        {
+          "bag": "dull white",
+          "count": 2
+        },
+        {
+          "bag": "plaid lavender",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "shiny gray",
+      "containedBy": [
+        {
+          "bag": "muted green",
+          "count": 4
+        },
+        {
+          "bag": "dull silver",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dotted orange",
+      "containedBy": [
+        {
+          "bag": "dull gold",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "light salmon",
+      "containedBy": [
+        {
+          "bag": "dotted orange",
+          "count": 1
+        },
+        {
+          "bag": "bright indigo",
+          "count": 4
+        },
+        {
+          "bag": "clear violet",
+          "count": 2
+        },
+        {
+          "bag": "dim plum",
+          "count": 5
+        },
+        {
+          "bag": "plaid plum",
+          "count": 1
+        },
+        {
+          "bag": "pale gold",
+          "count": 5
+        },
+        {
+          "bag": "faded bronze",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "shiny brown",
+      "containedBy": [
+        {
+          "bag": "dotted orange",
+          "count": 4
+        },
+        {
+          "bag": "muted plum",
+          "count": 1
+        },
+        {
+          "bag": "drab green",
+          "count": 4
+        },
+        {
+          "bag": "plaid plum",
+          "count": 2
+        },
+        {
+          "bag": "dark tan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "clear olive",
+      "containedBy": []
+    },
+    {
+      "bag": "mirrored tan",
+      "containedBy": [
+        {
+          "bag": "clear olive",
+          "count": 3
+        },
+        {
+          "bag": "pale salmon",
+          "count": 5
+        },
+        {
+          "bag": "clear turquoise",
+          "count": 2
+        },
+        {
+          "bag": "plaid indigo",
+          "count": 3
+        },
+        {
+          "bag": "vibrant tomato",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "pale tan",
+      "containedBy": [
+        {
+          "bag": "clear olive",
+          "count": 5
+        },
+        {
+          "bag": "light blue",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "drab bronze",
+      "containedBy": [
+        {
+          "bag": "striped tomato",
+          "count": 2
+        },
+        {
+          "bag": "bright turquoise",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "drab teal",
+      "containedBy": [
+        {
+          "bag": "drab bronze",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "drab chartreuse",
+      "containedBy": [
+        {
+          "bag": "striped tomato",
+          "count": 2
+        },
+        {
+          "bag": "dotted brown",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dim beige",
+      "containedBy": [
+        {
+          "bag": "drab chartreuse",
+          "count": 4
+        },
+        {
+          "bag": "dim tomato",
+          "count": 5
+        },
+        {
+          "bag": "clear bronze",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "faded cyan",
+      "containedBy": [
+        {
+          "bag": "striped silver",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "plaid fuchsia",
+      "containedBy": []
+    },
+    {
+      "bag": "pale yellow",
+      "containedBy": [
+        {
+          "bag": "plaid fuchsia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "light gold",
+      "containedBy": [
+        {
+          "bag": "bright indigo",
+          "count": 3
+        },
+        {
+          "bag": "plaid silver",
+          "count": 2
+        },
+        {
+          "bag": "shiny salmon",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "posh olive",
+      "containedBy": [
+        {
+          "bag": "light gold",
+          "count": 1
+        },
+        {
+          "bag": "mirrored aqua",
+          "count": 4
+        },
+        {
+          "bag": "wavy chartreuse",
+          "count": 5
+        },
+        {
+          "bag": "striped magenta",
+          "count": 2
+        },
+        {
+          "bag": "dark gold",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "pale tomato",
+      "containedBy": [
+        {
+          "bag": "light gold",
+          "count": 5
+        },
+        {
+          "bag": "muted plum",
+          "count": 5
+        },
+        {
+          "bag": "posh aqua",
+          "count": 3
+        },
+        {
+          "bag": "wavy plum",
+          "count": 3
+        },
+        {
+          "bag": "dotted plum",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "pale bronze",
+      "containedBy": [
+        {
+          "bag": "clear aqua",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "posh white",
+      "containedBy": [
+        {
+          "bag": "pale bronze",
+          "count": 2
+        },
+        {
+          "bag": "light turquoise",
+          "count": 5
+        },
+        {
+          "bag": "faded green",
+          "count": 1
+        },
+        {
+          "bag": "clear indigo",
+          "count": 1
+        },
+        {
+          "bag": "bright yellow",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "shiny coral",
+      "containedBy": [
+        {
+          "bag": "dull crimson",
+          "count": 3
+        },
+        {
+          "bag": "striped salmon",
+          "count": 5
+        },
+        {
+          "bag": "striped magenta",
+          "count": 5
+        },
+        {
+          "bag": "wavy violet",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "plaid crimson",
+      "containedBy": [
+        {
+          "bag": "shiny coral",
+          "count": 2
+        },
+        {
+          "bag": "vibrant plum",
+          "count": 4
+        },
+        {
+          "bag": "plaid lime",
+          "count": 5
+        },
+        {
+          "bag": "wavy aqua",
+          "count": 4
+        },
+        {
+          "bag": "wavy lavender",
+          "count": 1
+        },
+        {
+          "bag": "pale plum",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "clear turquoise",
+      "containedBy": [
+        {
+          "bag": "shiny coral",
+          "count": 1
+        },
+        {
+          "bag": "posh tomato",
+          "count": 4
+        },
+        {
+          "bag": "dull turquoise",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "vibrant green",
+      "containedBy": [
+        {
+          "bag": "plaid teal",
+          "count": 2
+        },
+        {
+          "bag": "dotted maroon",
+          "count": 3
+        },
+        {
+          "bag": "wavy indigo",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "shiny gold",
+      "containedBy": [
+        {
+          "bag": "vibrant green",
+          "count": 4
+        },
+        {
+          "bag": "faded magenta",
+          "count": 2
+        },
+        {
+          "bag": "striped cyan",
+          "count": 4
+        },
+        {
+          "bag": "dark plum",
+          "count": 3
+        },
+        {
+          "bag": "vibrant yellow",
+          "count": 4
+        },
+        {
+          "bag": "dark yellow",
+          "count": 4
+        },
+        {
+          "bag": "dark silver",
+          "count": 2
+        },
+        {
+          "bag": "dark tomato",
+          "count": 3
+        },
+        {
+          "bag": "dim chartreuse",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dim orange",
+      "containedBy": [
+        {
+          "bag": "vibrant green",
+          "count": 2
+        },
+        {
+          "bag": "clear green",
+          "count": 4
+        },
+        {
+          "bag": "light bronze",
+          "count": 1
+        },
+        {
+          "bag": "shiny cyan",
+          "count": 2
+        },
+        {
+          "bag": "bright green",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dark tomato",
+      "containedBy": [
+        {
+          "bag": "vibrant green",
+          "count": 4
+        },
+        {
+          "bag": "dark lavender",
+          "count": 4
+        },
+        {
+          "bag": "striped salmon",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "vibrant violet",
+      "containedBy": [
+        {
+          "bag": "muted beige",
+          "count": 1
+        },
+        {
+          "bag": "plaid yellow",
+          "count": 1
+        },
+        {
+          "bag": "plaid lavender",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "clear purple",
+      "containedBy": [
+        {
+          "bag": "vibrant violet",
+          "count": 5
+        },
+        {
+          "bag": "light olive",
+          "count": 1
+        },
+        {
+          "bag": "dotted turquoise",
+          "count": 1
+        },
+        {
+          "bag": "bright black",
+          "count": 1
+        },
+        {
+          "bag": "shiny cyan",
+          "count": 3
+        },
+        {
+          "bag": "light coral",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "muted fuchsia",
+      "containedBy": []
+    },
+    {
+      "bag": "bright olive",
+      "containedBy": []
+    },
+    {
+      "bag": "bright gold",
+      "containedBy": [
+        {
+          "bag": "bright olive",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "mirrored indigo",
+      "containedBy": [
+        {
+          "bag": "bright olive",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "mirrored maroon",
+      "containedBy": [
+        {
+          "bag": "bright magenta",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dull chartreuse",
+      "containedBy": [
+        {
+          "bag": "mirrored maroon",
+          "count": 2
+        },
+        {
+          "bag": "posh violet",
+          "count": 5
+        },
+        {
+          "bag": "bright gray",
+          "count": 2
+        },
+        {
+          "bag": "dotted indigo",
+          "count": 3
+        },
+        {
+          "bag": "vibrant lavender",
+          "count": 3
+        },
+        {
+          "bag": "dull magenta",
+          "count": 2
+        },
+        {
+          "bag": "shiny maroon",
+          "count": 2
+        },
+        {
+          "bag": "muted aqua",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "pale salmon",
+      "containedBy": [
+        {
+          "bag": "dim maroon",
+          "count": 3
+        },
+        {
+          "bag": "light bronze",
+          "count": 2
+        },
+        {
+          "bag": "drab orange",
+          "count": 3
+        },
+        {
+          "bag": "dull lavender",
+          "count": 4
+        },
+        {
+          "bag": "plaid gold",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "bright red",
+      "containedBy": [
+        {
+          "bag": "pale salmon",
+          "count": 5
+        },
+        {
+          "bag": "faded teal",
+          "count": 2
+        },
+        {
+          "bag": "vibrant red",
+          "count": 2
+        },
+        {
+          "bag": "light magenta",
+          "count": 3
+        },
+        {
+          "bag": "dark violet",
+          "count": 4
+        },
+        {
+          "bag": "vibrant indigo",
+          "count": 1
+        },
+        {
+          "bag": "clear gray",
+          "count": 1
+        },
+        {
+          "bag": "dark blue",
+          "count": 4
+        },
+        {
+          "bag": "posh lavender",
+          "count": 3
+        },
+        {
+          "bag": "vibrant lavender",
+          "count": 2
+        },
+        {
+          "bag": "posh gray",
+          "count": 3
+        },
+        {
+          "bag": "clear beige",
+          "count": 5
+        },
+        {
+          "bag": "wavy lime",
+          "count": 5
+        },
+        {
+          "bag": "bright aqua",
+          "count": 4
+        },
+        {
+          "bag": "dark tomato",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "faded brown",
+      "containedBy": [
+        {
+          "bag": "mirrored brown",
+          "count": 4
+        },
+        {
+          "bag": "wavy tan",
+          "count": 5
+        },
+        {
+          "bag": "dull tomato",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dark lavender",
+      "containedBy": [
+        {
+          "bag": "faded fuchsia",
+          "count": 3
+        },
+        {
+          "bag": "light brown",
+          "count": 5
+        },
+        {
+          "bag": "muted brown",
+          "count": 2
+        },
+        {
+          "bag": "clear crimson",
+          "count": 2
+        },
+        {
+          "bag": "light teal",
+          "count": 5
+        },
+        {
+          "bag": "clear lime",
+          "count": 5
+        },
+        {
+          "bag": "dark gray",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "drab plum",
+      "containedBy": [
+        {
+          "bag": "dark lavender",
+          "count": 2
+        },
+        {
+          "bag": "wavy fuchsia",
+          "count": 2
+        },
+        {
+          "bag": "mirrored lavender",
+          "count": 4
+        },
+        {
+          "bag": "clear fuchsia",
+          "count": 2
+        },
+        {
+          "bag": "faded aqua",
+          "count": 3
+        },
+        {
+          "bag": "shiny gold",
+          "count": 1
+        },
+        {
+          "bag": "clear indigo",
+          "count": 5
+        },
+        {
+          "bag": "muted crimson",
+          "count": 5
+        },
+        {
+          "bag": "wavy gold",
+          "count": 3
+        },
+        {
+          "bag": "muted maroon",
+          "count": 1
+        },
+        {
+          "bag": "pale gold",
+          "count": 3
+        },
+        {
+          "bag": "pale yellow",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "vibrant gray",
+      "containedBy": [
+        {
+          "bag": "dark lavender",
+          "count": 3
+        },
+        {
+          "bag": "light red",
+          "count": 5
+        },
+        {
+          "bag": "pale orange",
+          "count": 4
+        },
+        {
+          "bag": "muted aqua",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "plaid coral",
+      "containedBy": []
+    },
+    {
+      "bag": "striped turquoise",
+      "containedBy": [
+        {
+          "bag": "plaid coral",
+          "count": 3
+        },
+        {
+          "bag": "plaid indigo",
+          "count": 1
+        },
+        {
+          "bag": "drab coral",
+          "count": 5
+        },
+        {
+          "bag": "clear silver",
+          "count": 2
+        },
+        {
+          "bag": "faded tan",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "vibrant black",
+      "containedBy": [
+        {
+          "bag": "drab black",
+          "count": 1
+        },
+        {
+          "bag": "dull violet",
+          "count": 1
+        },
+        {
+          "bag": "dark crimson",
+          "count": 2
+        },
+        {
+          "bag": "light red",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "shiny black",
+      "containedBy": []
+    },
+    {
+      "bag": "shiny olive",
+      "containedBy": [
+        {
+          "bag": "shiny black",
+          "count": 3
+        },
+        {
+          "bag": "wavy olive",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dull violet",
+      "containedBy": [
+        {
+          "bag": "shiny black",
+          "count": 4
+        },
+        {
+          "bag": "muted plum",
+          "count": 4
+        },
+        {
+          "bag": "dim violet",
+          "count": 3
+        },
+        {
+          "bag": "pale aqua",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "vibrant plum",
+      "containedBy": [
+        {
+          "bag": "shiny black",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "muted plum",
+      "containedBy": []
+    },
+    {
+      "bag": "shiny lavender",
+      "containedBy": []
+    },
+    {
+      "bag": "mirrored lavender",
+      "containedBy": [
+        {
+          "bag": "shiny lavender",
+          "count": 4
+        },
+        {
+          "bag": "posh olive",
+          "count": 5
+        },
+        {
+          "bag": "faded magenta",
+          "count": 2
+        },
+        {
+          "bag": "dull yellow",
+          "count": 1
+        },
+        {
+          "bag": "posh green",
+          "count": 5
+        },
+        {
+          "bag": "wavy brown",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "mirrored blue",
+      "containedBy": [
+        {
+          "bag": "posh chartreuse",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "faded violet",
+      "containedBy": [
+        {
+          "bag": "mirrored blue",
+          "count": 1
+        },
+        {
+          "bag": "mirrored lavender",
+          "count": 1
+        },
+        {
+          "bag": "striped turquoise",
+          "count": 2
+        },
+        {
+          "bag": "bright purple",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "plaid olive",
+      "containedBy": [
+        {
+          "bag": "mirrored blue",
+          "count": 2
+        },
+        {
+          "bag": "striped indigo",
+          "count": 4
+        },
+        {
+          "bag": "bright indigo",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dotted aqua",
+      "containedBy": []
+    },
+    {
+      "bag": "shiny yellow",
+      "containedBy": [
+        {
+          "bag": "dotted aqua",
+          "count": 3
+        },
+        {
+          "bag": "drab white",
+          "count": 5
+        },
+        {
+          "bag": "vibrant blue",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "light silver",
+      "containedBy": [
+        {
+          "bag": "light lavender",
+          "count": 1
+        },
+        {
+          "bag": "vibrant yellow",
+          "count": 3
+        },
+        {
+          "bag": "dotted violet",
+          "count": 4
+        },
+        {
+          "bag": "dark purple",
+          "count": 5
+        },
+        {
+          "bag": "faded plum",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "bright orange",
+      "containedBy": []
+    },
+    {
+      "bag": "dim indigo",
+      "containedBy": []
+    },
+    {
+      "bag": "pale olive",
+      "containedBy": [
+        {
+          "bag": "dim indigo",
+          "count": 1
+        },
+        {
+          "bag": "plaid red",
+          "count": 2
+        },
+        {
+          "bag": "pale tan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "light indigo",
+      "containedBy": [
+        {
+          "bag": "dim indigo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "faded turquoise",
+      "containedBy": [
+        {
+          "bag": "vibrant plum",
+          "count": 3
+        },
+        {
+          "bag": "plaid aqua",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "pale chartreuse",
+      "containedBy": [
+        {
+          "bag": "faded turquoise",
+          "count": 3
+        },
+        {
+          "bag": "mirrored crimson",
+          "count": 3
+        },
+        {
+          "bag": "plaid crimson",
+          "count": 4
+        },
+        {
+          "bag": "clear coral",
+          "count": 3
+        },
+        {
+          "bag": "dim fuchsia",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "wavy teal",
+      "containedBy": []
+    },
+    {
+      "bag": "clear brown",
+      "containedBy": [
+        {
+          "bag": "wavy teal",
+          "count": 3
+        },
+        {
+          "bag": "dotted coral",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dark beige",
+      "containedBy": [
+        {
+          "bag": "wavy teal",
+          "count": 3
+        },
+        {
+          "bag": "faded chartreuse",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dotted bronze",
+      "containedBy": [
+        {
+          "bag": "shiny white",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "posh purple",
+      "containedBy": []
+    },
+    {
+      "bag": "clear silver",
+      "containedBy": [
+        {
+          "bag": "posh purple",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "mirrored crimson",
+      "containedBy": []
+    },
+    {
+      "bag": "plaid bronze",
+      "containedBy": [
+        {
+          "bag": "mirrored crimson",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "wavy fuchsia",
+      "containedBy": []
+    },
+    {
+      "bag": "plaid magenta",
+      "containedBy": [
+        {
+          "bag": "wavy fuchsia",
+          "count": 1
+        },
+        {
+          "bag": "light bronze",
+          "count": 3
+        },
+        {
+          "bag": "dotted yellow",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "drab aqua",
+      "containedBy": [
+        {
+          "bag": "wavy fuchsia",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "striped yellow",
+      "containedBy": [
+        {
+          "bag": "wavy maroon",
+          "count": 2
+        },
+        {
+          "bag": "drab green",
+          "count": 3
+        },
+        {
+          "bag": "muted green",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dark coral",
+      "containedBy": [
+        {
+          "bag": "striped yellow",
+          "count": 4
+        },
+        {
+          "bag": "posh cyan",
+          "count": 5
+        },
+        {
+          "bag": "striped red",
+          "count": 3
+        },
+        {
+          "bag": "dull turquoise",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dim silver",
+      "containedBy": [
+        {
+          "bag": "striped yellow",
+          "count": 5
+        },
+        {
+          "bag": "vibrant tan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "striped white",
+      "containedBy": [
+        {
+          "bag": "bright brown",
+          "count": 3
+        },
+        {
+          "bag": "light plum",
+          "count": 1
+        },
+        {
+          "bag": "muted yellow",
+          "count": 2
+        },
+        {
+          "bag": "mirrored green",
+          "count": 1
+        },
+        {
+          "bag": "bright cyan",
+          "count": 4
+        },
+        {
+          "bag": "clear teal",
+          "count": 1
+        },
+        {
+          "bag": "dim coral",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "faded teal",
+      "containedBy": [
+        {
+          "bag": "striped white",
+          "count": 4
+        },
+        {
+          "bag": "dim brown",
+          "count": 4
+        },
+        {
+          "bag": "mirrored cyan",
+          "count": 5
+        },
+        {
+          "bag": "dark coral",
+          "count": 5
+        },
+        {
+          "bag": "shiny turquoise",
+          "count": 4
+        },
+        {
+          "bag": "shiny green",
+          "count": 1
+        },
+        {
+          "bag": "dull blue",
+          "count": 2
+        },
+        {
+          "bag": "bright lime",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "faded yellow",
+      "containedBy": [
+        {
+          "bag": "striped white",
+          "count": 1
+        },
+        {
+          "bag": "posh cyan",
+          "count": 1
+        },
+        {
+          "bag": "wavy yellow",
+          "count": 5
+        },
+        {
+          "bag": "light aqua",
+          "count": 3
+        },
+        {
+          "bag": "shiny blue",
+          "count": 4
+        },
+        {
+          "bag": "vibrant yellow",
+          "count": 2
+        },
+        {
+          "bag": "plaid plum",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "faded blue",
+      "containedBy": []
+    },
+    {
+      "bag": "bright violet",
+      "containedBy": [
+        {
+          "bag": "faded blue",
+          "count": 3
+        },
+        {
+          "bag": "dull brown",
+          "count": 4
+        },
+        {
+          "bag": "striped turquoise",
+          "count": 4
+        },
+        {
+          "bag": "mirrored coral",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dark purple",
+      "containedBy": [
+        {
+          "bag": "faded blue",
+          "count": 4
+        },
+        {
+          "bag": "dotted magenta",
+          "count": 2
+        },
+        {
+          "bag": "bright plum",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dim aqua",
+      "containedBy": []
+    },
+    {
+      "bag": "clear bronze",
+      "containedBy": [
+        {
+          "bag": "dim aqua",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dull magenta",
+      "containedBy": [
+        {
+          "bag": "dim aqua",
+          "count": 4
+        },
+        {
+          "bag": "clear black",
+          "count": 2
+        },
+        {
+          "bag": "bright green",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "shiny magenta",
+      "containedBy": []
+    },
+    {
+      "bag": "mirrored teal",
+      "containedBy": [
+        {
+          "bag": "shiny magenta",
+          "count": 2
+        },
+        {
+          "bag": "pale tan",
+          "count": 4
+        },
+        {
+          "bag": "pale plum",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "wavy maroon",
+      "containedBy": [
+        {
+          "bag": "dim gray",
+          "count": 5
+        },
+        {
+          "bag": "muted beige",
+          "count": 4
+        },
+        {
+          "bag": "dull chartreuse",
+          "count": 5
+        },
+        {
+          "bag": "dim lavender",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "plaid teal",
+      "containedBy": [
+        {
+          "bag": "posh aqua",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "plaid yellow",
+      "containedBy": [
+        {
+          "bag": "plaid teal",
+          "count": 4
+        },
+        {
+          "bag": "wavy beige",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "bright tomato",
+      "containedBy": [
+        {
+          "bag": "dark maroon",
+          "count": 2
+        },
+        {
+          "bag": "striped green",
+          "count": 2
+        },
+        {
+          "bag": "dotted red",
+          "count": 3
+        },
+        {
+          "bag": "pale red",
+          "count": 4
+        },
+        {
+          "bag": "vibrant beige",
+          "count": 1
+        },
+        {
+          "bag": "vibrant orange",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "posh lavender",
+      "containedBy": [
+        {
+          "bag": "bright tomato",
+          "count": 5
+        },
+        {
+          "bag": "wavy yellow",
+          "count": 2
+        },
+        {
+          "bag": "striped purple",
+          "count": 3
+        },
+        {
+          "bag": "muted olive",
+          "count": 1
+        },
+        {
+          "bag": "clear orange",
+          "count": 1
+        },
+        {
+          "bag": "dotted red",
+          "count": 1
+        },
+        {
+          "bag": "mirrored beige",
+          "count": 1
+        },
+        {
+          "bag": "striped tomato",
+          "count": 5
+        },
+        {
+          "bag": "dull bronze",
+          "count": 2
+        },
+        {
+          "bag": "striped fuchsia",
+          "count": 4
+        },
+        {
+          "bag": "dark gray",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "striped bronze",
+      "containedBy": [
+        {
+          "bag": "mirrored lavender",
+          "count": 5
+        },
+        {
+          "bag": "shiny silver",
+          "count": 4
+        },
+        {
+          "bag": "mirrored cyan",
+          "count": 3
+        },
+        {
+          "bag": "faded silver",
+          "count": 4
+        },
+        {
+          "bag": "clear tomato",
+          "count": 2
+        },
+        {
+          "bag": "striped lavender",
+          "count": 1
+        },
+        {
+          "bag": "posh bronze",
+          "count": 3
+        },
+        {
+          "bag": "dim lavender",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "vibrant purple",
+      "containedBy": [
+        {
+          "bag": "shiny indigo",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "posh aqua",
+      "containedBy": [
+        {
+          "bag": "drab salmon",
+          "count": 4
+        },
+        {
+          "bag": "mirrored coral",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "muted teal",
+      "containedBy": [
+        {
+          "bag": "posh aqua",
+          "count": 4
+        },
+        {
+          "bag": "striped lavender",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "faded fuchsia",
+      "containedBy": []
+    },
+    {
+      "bag": "plaid green",
+      "containedBy": [
+        {
+          "bag": "faded fuchsia",
+          "count": 4
+        },
+        {
+          "bag": "drab yellow",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "clear tomato",
+      "containedBy": [
+        {
+          "bag": "dim silver",
+          "count": 1
+        },
+        {
+          "bag": "muted violet",
+          "count": 1
+        },
+        {
+          "bag": "dark indigo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dim olive",
+      "containedBy": []
+    },
+    {
+      "bag": "clear violet",
+      "containedBy": [
+        {
+          "bag": "dim olive",
+          "count": 2
+        },
+        {
+          "bag": "mirrored magenta",
+          "count": 1
+        },
+        {
+          "bag": "dark crimson",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "plaid gold",
+      "containedBy": [
+        {
+          "bag": "dim olive",
+          "count": 3
+        },
+        {
+          "bag": "clear brown",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "plaid lime",
+      "containedBy": [
+        {
+          "bag": "dim olive",
+          "count": 3
+        },
+        {
+          "bag": "striped indigo",
+          "count": 3
+        },
+        {
+          "bag": "dotted tomato",
+          "count": 5
+        },
+        {
+          "bag": "shiny bronze",
+          "count": 5
+        },
+        {
+          "bag": "drab silver",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "striped teal",
+      "containedBy": [
+        {
+          "bag": "mirrored lime",
+          "count": 5
+        },
+        {
+          "bag": "shiny red",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "bright lavender",
+      "containedBy": [
+        {
+          "bag": "striped teal",
+          "count": 2
+        },
+        {
+          "bag": "dotted blue",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "faded beige",
+      "containedBy": [
+        {
+          "bag": "striped teal",
+          "count": 5
+        },
+        {
+          "bag": "mirrored green",
+          "count": 3
+        },
+        {
+          "bag": "dim orange",
+          "count": 1
+        },
+        {
+          "bag": "dull purple",
+          "count": 2
+        },
+        {
+          "bag": "vibrant salmon",
+          "count": 3
+        },
+        {
+          "bag": "dark cyan",
+          "count": 4
+        },
+        {
+          "bag": "dull brown",
+          "count": 2
+        },
+        {
+          "bag": "plaid magenta",
+          "count": 2
+        },
+        {
+          "bag": "drab violet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "clear beige",
+      "containedBy": [
+        {
+          "bag": "striped teal",
+          "count": 5
+        },
+        {
+          "bag": "drab turquoise",
+          "count": 5
+        },
+        {
+          "bag": "light black",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dotted turquoise",
+      "containedBy": [
+        {
+          "bag": "striped teal",
+          "count": 4
+        },
+        {
+          "bag": "vibrant orange",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "posh plum",
+      "containedBy": [
+        {
+          "bag": "clear orange",
+          "count": 5
+        },
+        {
+          "bag": "clear coral",
+          "count": 3
+        },
+        {
+          "bag": "plaid green",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dotted beige",
+      "containedBy": [
+        {
+          "bag": "faded teal",
+          "count": 2
+        },
+        {
+          "bag": "dull crimson",
+          "count": 4
+        },
+        {
+          "bag": "vibrant magenta",
+          "count": 4
+        },
+        {
+          "bag": "drab violet",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "striped indigo",
+      "containedBy": []
+    },
+    {
+      "bag": "clear cyan",
+      "containedBy": [
+        {
+          "bag": "striped indigo",
+          "count": 5
+        },
+        {
+          "bag": "mirrored lime",
+          "count": 1
+        },
+        {
+          "bag": "dark purple",
+          "count": 5
+        },
+        {
+          "bag": "dark silver",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "drab blue",
+      "containedBy": [
+        {
+          "bag": "mirrored aqua",
+          "count": 4
+        },
+        {
+          "bag": "dark tan",
+          "count": 3
+        },
+        {
+          "bag": "dark beige",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dim coral",
+      "containedBy": [
+        {
+          "bag": "drab blue",
+          "count": 2
+        },
+        {
+          "bag": "dim maroon",
+          "count": 3
+        },
+        {
+          "bag": "dull crimson",
+          "count": 5
+        },
+        {
+          "bag": "vibrant tomato",
+          "count": 3
+        },
+        {
+          "bag": "pale turquoise",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "plaid purple",
+      "containedBy": [
+        {
+          "bag": "drab blue",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "vibrant red",
+      "containedBy": [
+        {
+          "bag": "pale silver",
+          "count": 5
+        },
+        {
+          "bag": "pale brown",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "pale gray",
+      "containedBy": [
+        {
+          "bag": "vibrant red",
+          "count": 2
+        },
+        {
+          "bag": "muted indigo",
+          "count": 5
+        },
+        {
+          "bag": "pale magenta",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "wavy tomato",
+      "containedBy": [
+        {
+          "bag": "vibrant red",
+          "count": 4
+        },
+        {
+          "bag": "pale green",
+          "count": 3
+        },
+        {
+          "bag": "muted magenta",
+          "count": 4
+        },
+        {
+          "bag": "plaid maroon",
+          "count": 4
+        },
+        {
+          "bag": "drab tomato",
+          "count": 5
+        },
+        {
+          "bag": "shiny green",
+          "count": 4
+        },
+        {
+          "bag": "faded tan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dull green",
+      "containedBy": [
+        {
+          "bag": "shiny brown",
+          "count": 2
+        },
+        {
+          "bag": "dim yellow",
+          "count": 2
+        },
+        {
+          "bag": "posh red",
+          "count": 3
+        },
+        {
+          "bag": "dim tan",
+          "count": 1
+        },
+        {
+          "bag": "drab crimson",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "wavy lime",
+      "containedBy": [
+        {
+          "bag": "shiny brown",
+          "count": 3
+        },
+        {
+          "bag": "mirrored violet",
+          "count": 5
+        },
+        {
+          "bag": "drab red",
+          "count": 2
+        },
+        {
+          "bag": "light purple",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "faded aqua",
+      "containedBy": [
+        {
+          "bag": "clear green",
+          "count": 2
+        },
+        {
+          "bag": "dotted yellow",
+          "count": 3
+        },
+        {
+          "bag": "shiny beige",
+          "count": 4
+        },
+        {
+          "bag": "faded black",
+          "count": 1
+        },
+        {
+          "bag": "vibrant turquoise",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "vibrant olive",
+      "containedBy": [
+        {
+          "bag": "clear green",
+          "count": 3
+        },
+        {
+          "bag": "dotted gray",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "mirrored violet",
+      "containedBy": [
+        {
+          "bag": "plaid green",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "wavy chartreuse",
+      "containedBy": [
+        {
+          "bag": "mirrored violet",
+          "count": 1
+        },
+        {
+          "bag": "bright black",
+          "count": 4
+        },
+        {
+          "bag": "dim fuchsia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "light brown",
+      "containedBy": [
+        {
+          "bag": "dark white",
+          "count": 3
+        },
+        {
+          "bag": "wavy salmon",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "plaid blue",
+      "containedBy": []
+    },
+    {
+      "bag": "plaid beige",
+      "containedBy": [
+        {
+          "bag": "plaid blue",
+          "count": 3
+        },
+        {
+          "bag": "shiny olive",
+          "count": 1
+        },
+        {
+          "bag": "plaid gold",
+          "count": 4
+        },
+        {
+          "bag": "clear plum",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dotted teal",
+      "containedBy": [
+        {
+          "bag": "plaid blue",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dim green",
+      "containedBy": []
+    },
+    {
+      "bag": "bright green",
+      "containedBy": [
+        {
+          "bag": "dim green",
+          "count": 5
+        },
+        {
+          "bag": "light lime",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "plaid black",
+      "containedBy": [
+        {
+          "bag": "mirrored plum",
+          "count": 1
+        },
+        {
+          "bag": "striped red",
+          "count": 3
+        },
+        {
+          "bag": "clear turquoise",
+          "count": 4
+        },
+        {
+          "bag": "mirrored magenta",
+          "count": 1
+        },
+        {
+          "bag": "muted magenta",
+          "count": 2
+        },
+        {
+          "bag": "faded maroon",
+          "count": 1
+        },
+        {
+          "bag": "mirrored chartreuse",
+          "count": 5
+        },
+        {
+          "bag": "plaid white",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dull salmon",
+      "containedBy": []
+    },
+    {
+      "bag": "faded lime",
+      "containedBy": [
+        {
+          "bag": "dull salmon",
+          "count": 3
+        },
+        {
+          "bag": "vibrant blue",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "striped gray",
+      "containedBy": [
+        {
+          "bag": "dull salmon",
+          "count": 1
+        },
+        {
+          "bag": "vibrant chartreuse",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dull gold",
+      "containedBy": [
+        {
+          "bag": "dull salmon",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "wavy plum",
+      "containedBy": []
+    },
+    {
+      "bag": "shiny green",
+      "containedBy": [
+        {
+          "bag": "wavy plum",
+          "count": 4
+        },
+        {
+          "bag": "drab turquoise",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dull crimson",
+      "containedBy": [
+        {
+          "bag": "wavy plum",
+          "count": 2
+        },
+        {
+          "bag": "dotted plum",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "bright blue",
+      "containedBy": [
+        {
+          "bag": "plaid bronze",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dull lavender",
+      "containedBy": [
+        {
+          "bag": "bright blue",
+          "count": 5
+        },
+        {
+          "bag": "dim bronze",
+          "count": 4
+        },
+        {
+          "bag": "dull yellow",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "posh tomato",
+      "containedBy": [
+        {
+          "bag": "dim purple",
+          "count": 5
+        },
+        {
+          "bag": "shiny silver",
+          "count": 4
+        },
+        {
+          "bag": "dull brown",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dim chartreuse",
+      "containedBy": [
+        {
+          "bag": "posh tomato",
+          "count": 2
+        },
+        {
+          "bag": "muted brown",
+          "count": 2
+        },
+        {
+          "bag": "posh tan",
+          "count": 1
+        },
+        {
+          "bag": "plaid brown",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dotted lavender",
+      "containedBy": []
+    },
+    {
+      "bag": "posh magenta",
+      "containedBy": [
+        {
+          "bag": "muted coral",
+          "count": 5
+        },
+        {
+          "bag": "posh blue",
+          "count": 5
+        },
+        {
+          "bag": "bright beige",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "pale green",
+      "containedBy": [
+        {
+          "bag": "bright gold",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "plaid indigo",
+      "containedBy": [
+        {
+          "bag": "pale green",
+          "count": 4
+        },
+        {
+          "bag": "muted tan",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dull fuchsia",
+      "containedBy": [
+        {
+          "bag": "dim turquoise",
+          "count": 3
+        },
+        {
+          "bag": "striped magenta",
+          "count": 3
+        },
+        {
+          "bag": "muted orange",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "light plum",
+      "containedBy": []
+    },
+    {
+      "bag": "dotted olive",
+      "containedBy": [
+        {
+          "bag": "wavy salmon",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "vibrant maroon",
+      "containedBy": [
+        {
+          "bag": "dotted olive",
+          "count": 5
+        },
+        {
+          "bag": "dim beige",
+          "count": 3
+        },
+        {
+          "bag": "light green",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dim yellow",
+      "containedBy": []
+    },
+    {
+      "bag": "bright indigo",
+      "containedBy": [
+        {
+          "bag": "drab orange",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "wavy lavender",
+      "containedBy": [
+        {
+          "bag": "bright indigo",
+          "count": 3
+        },
+        {
+          "bag": "posh green",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dark bronze",
+      "containedBy": [
+        {
+          "bag": "plaid lime",
+          "count": 5
+        },
+        {
+          "bag": "wavy beige",
+          "count": 1
+        },
+        {
+          "bag": "dotted tan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "striped aqua",
+      "containedBy": []
+    },
+    {
+      "bag": "dull tomato",
+      "containedBy": [
+        {
+          "bag": "striped aqua",
+          "count": 4
+        },
+        {
+          "bag": "shiny plum",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "pale gold",
+      "containedBy": [
+        {
+          "bag": "striped aqua",
+          "count": 5
+        },
+        {
+          "bag": "dull gold",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dull maroon",
+      "containedBy": [
+        {
+          "bag": "vibrant white",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "pale teal",
+      "containedBy": [
+        {
+          "bag": "dull maroon",
+          "count": 2
+        },
+        {
+          "bag": "shiny indigo",
+          "count": 1
+        },
+        {
+          "bag": "clear lime",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "light coral",
+      "containedBy": [
+        {
+          "bag": "dull maroon",
+          "count": 5
+        },
+        {
+          "bag": "striped crimson",
+          "count": 5
+        },
+        {
+          "bag": "dull plum",
+          "count": 2
+        },
+        {
+          "bag": "posh violet",
+          "count": 2
+        },
+        {
+          "bag": "mirrored turquoise",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "light magenta",
+      "containedBy": [
+        {
+          "bag": "dull maroon",
+          "count": 4
+        },
+        {
+          "bag": "muted black",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "muted tan",
+      "containedBy": []
+    },
+    {
+      "bag": "clear yellow",
+      "containedBy": [
+        {
+          "bag": "muted tan",
+          "count": 2
+        },
+        {
+          "bag": "mirrored beige",
+          "count": 4
+        },
+        {
+          "bag": "bright beige",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dotted crimson",
+      "containedBy": [
+        {
+          "bag": "muted tan",
+          "count": 2
+        },
+        {
+          "bag": "posh maroon",
+          "count": 5
+        },
+        {
+          "bag": "faded green",
+          "count": 1
+        },
+        {
+          "bag": "muted silver",
+          "count": 2
+        },
+        {
+          "bag": "dull tan",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dull beige",
+      "containedBy": [
+        {
+          "bag": "drab salmon",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "posh cyan",
+      "containedBy": [
+        {
+          "bag": "dull beige",
+          "count": 3
+        },
+        {
+          "bag": "plaid silver",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "drab red",
+      "containedBy": [
+        {
+          "bag": "dim maroon",
+          "count": 4
+        },
+        {
+          "bag": "wavy chartreuse",
+          "count": 3
+        },
+        {
+          "bag": "vibrant beige",
+          "count": 2
+        },
+        {
+          "bag": "dull green",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "drab gray",
+      "containedBy": []
+    },
+    {
+      "bag": "plaid turquoise",
+      "containedBy": [
+        {
+          "bag": "drab gray",
+          "count": 2
+        },
+        {
+          "bag": "shiny fuchsia",
+          "count": 1
+        },
+        {
+          "bag": "posh tan",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "muted red",
+      "containedBy": [
+        {
+          "bag": "light violet",
+          "count": 3
+        },
+        {
+          "bag": "light lime",
+          "count": 3
+        },
+        {
+          "bag": "dull tomato",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "pale coral",
+      "containedBy": [
+        {
+          "bag": "muted red",
+          "count": 2
+        },
+        {
+          "bag": "faded silver",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "drab green",
+      "containedBy": [
+        {
+          "bag": "mirrored purple",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dim gray",
+      "containedBy": []
+    },
+    {
+      "bag": "light tomato",
+      "containedBy": [
+        {
+          "bag": "dim gray",
+          "count": 3
+        },
+        {
+          "bag": "dotted indigo",
+          "count": 2
+        },
+        {
+          "bag": "clear aqua",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dark white",
+      "containedBy": [
+        {
+          "bag": "dim tan",
+          "count": 5
+        },
+        {
+          "bag": "dark black",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "pale maroon",
+      "containedBy": [
+        {
+          "bag": "drab lavender",
+          "count": 3
+        },
+        {
+          "bag": "striped green",
+          "count": 4
+        },
+        {
+          "bag": "mirrored lime",
+          "count": 3
+        },
+        {
+          "bag": "pale white",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "striped crimson",
+      "containedBy": [
+        {
+          "bag": "dotted fuchsia",
+          "count": 5
+        },
+        {
+          "bag": "striped cyan",
+          "count": 5
+        },
+        {
+          "bag": "shiny green",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "vibrant gold",
+      "containedBy": [
+        {
+          "bag": "vibrant olive",
+          "count": 4
+        },
+        {
+          "bag": "pale gray",
+          "count": 3
+        },
+        {
+          "bag": "posh white",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "muted lime",
+      "containedBy": [
+        {
+          "bag": "dull olive",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "drab cyan",
+      "containedBy": [
+        {
+          "bag": "muted lime",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "drab purple",
+      "containedBy": [
+        {
+          "bag": "muted chartreuse",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dotted gold",
+      "containedBy": [
+        {
+          "bag": "drab purple",
+          "count": 4
+        },
+        {
+          "bag": "dull teal",
+          "count": 4
+        },
+        {
+          "bag": "pale chartreuse",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dotted green",
+      "containedBy": []
+    },
+    {
+      "bag": "wavy blue",
+      "containedBy": [
+        {
+          "bag": "dotted green",
+          "count": 1
+        },
+        {
+          "bag": "dotted tomato",
+          "count": 1
+        },
+        {
+          "bag": "dull red",
+          "count": 5
+        },
+        {
+          "bag": "drab crimson",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "bright black",
+      "containedBy": [
+        {
+          "bag": "shiny crimson",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "bright chartreuse",
+      "containedBy": [
+        {
+          "bag": "faded yellow",
+          "count": 2
+        },
+        {
+          "bag": "dull orange",
+          "count": 5
+        },
+        {
+          "bag": "posh lavender",
+          "count": 2
+        },
+        {
+          "bag": "striped chartreuse",
+          "count": 2
+        },
+        {
+          "bag": "shiny orange",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dim purple",
+      "containedBy": [
+        {
+          "bag": "light indigo",
+          "count": 2
+        },
+        {
+          "bag": "faded lime",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "faded lavender",
+      "containedBy": [
+        {
+          "bag": "dim purple",
+          "count": 2
+        },
+        {
+          "bag": "pale beige",
+          "count": 2
+        },
+        {
+          "bag": "dim beige",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "bright purple",
+      "containedBy": [
+        {
+          "bag": "vibrant maroon",
+          "count": 3
+        },
+        {
+          "bag": "plaid turquoise",
+          "count": 1
+        },
+        {
+          "bag": "wavy gold",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "pale fuchsia",
+      "containedBy": []
+    },
+    {
+      "bag": "dark magenta",
+      "containedBy": [
+        {
+          "bag": "pale fuchsia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "bright salmon",
+      "containedBy": [
+        {
+          "bag": "muted green",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "vibrant coral",
+      "containedBy": [
+        {
+          "bag": "bright salmon",
+          "count": 2
+        },
+        {
+          "bag": "muted gray",
+          "count": 3
+        },
+        {
+          "bag": "plaid yellow",
+          "count": 3
+        },
+        {
+          "bag": "clear lime",
+          "count": 2
+        },
+        {
+          "bag": "plaid magenta",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "bright gray",
+      "containedBy": [
+        {
+          "bag": "bright salmon",
+          "count": 3
+        },
+        {
+          "bag": "dotted indigo",
+          "count": 3
+        },
+        {
+          "bag": "faded black",
+          "count": 3
+        },
+        {
+          "bag": "dull coral",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "faded green",
+      "containedBy": [
+        {
+          "bag": "bright salmon",
+          "count": 1
+        },
+        {
+          "bag": "dark teal",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "bright magenta",
+      "containedBy": []
+    },
+    {
+      "bag": "vibrant crimson",
+      "containedBy": [
+        {
+          "bag": "bright magenta",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "striped red",
+      "containedBy": [
+        {
+          "bag": "posh red",
+          "count": 1
+        },
+        {
+          "bag": "striped cyan",
+          "count": 5
+        },
+        {
+          "bag": "dark black",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "vibrant indigo",
+      "containedBy": [
+        {
+          "bag": "striped red",
+          "count": 4
+        },
+        {
+          "bag": "faded magenta",
+          "count": 4
+        },
+        {
+          "bag": "shiny silver",
+          "count": 5
+        },
+        {
+          "bag": "dark crimson",
+          "count": 2
+        },
+        {
+          "bag": "plaid crimson",
+          "count": 3
+        },
+        {
+          "bag": "dotted tan",
+          "count": 5
+        },
+        {
+          "bag": "mirrored salmon",
+          "count": 5
+        },
+        {
+          "bag": "muted salmon",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "shiny purple",
+      "containedBy": [
+        {
+          "bag": "pale teal",
+          "count": 3
+        },
+        {
+          "bag": "clear cyan",
+          "count": 3
+        },
+        {
+          "bag": "dull chartreuse",
+          "count": 1
+        },
+        {
+          "bag": "faded coral",
+          "count": 2
+        },
+        {
+          "bag": "dull turquoise",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "muted gray",
+      "containedBy": []
+    },
+    {
+      "bag": "dark teal",
+      "containedBy": [
+        {
+          "bag": "muted gray",
+          "count": 4
+        },
+        {
+          "bag": "shiny cyan",
+          "count": 1
+        },
+        {
+          "bag": "striped tomato",
+          "count": 2
+        },
+        {
+          "bag": "pale aqua",
+          "count": 3
+        },
+        {
+          "bag": "striped plum",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "faded indigo",
+      "containedBy": [
+        {
+          "bag": "bright gold",
+          "count": 2
+        },
+        {
+          "bag": "mirrored salmon",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "mirrored orange",
+      "containedBy": [
+        {
+          "bag": "bright gold",
+          "count": 5
+        },
+        {
+          "bag": "mirrored beige",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "clear red",
+      "containedBy": [
+        {
+          "bag": "wavy black",
+          "count": 3
+        },
+        {
+          "bag": "pale silver",
+          "count": 4
+        },
+        {
+          "bag": "pale olive",
+          "count": 1
+        },
+        {
+          "bag": "wavy cyan",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dark violet",
+      "containedBy": [
+        {
+          "bag": "clear red",
+          "count": 2
+        },
+        {
+          "bag": "dull plum",
+          "count": 3
+        },
+        {
+          "bag": "shiny red",
+          "count": 1
+        },
+        {
+          "bag": "posh teal",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "striped purple",
+      "containedBy": [
+        {
+          "bag": "dark indigo",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "plaid violet",
+      "containedBy": []
+    },
+    {
+      "bag": "mirrored gold",
+      "containedBy": [
+        {
+          "bag": "plaid violet",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "shiny crimson",
+      "containedBy": []
+    },
+    {
+      "bag": "wavy purple",
+      "containedBy": [
+        {
+          "bag": "shiny crimson",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dark crimson",
+      "containedBy": [
+        {
+          "bag": "shiny crimson",
+          "count": 1
+        },
+        {
+          "bag": "dark salmon",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "posh gold",
+      "containedBy": [
+        {
+          "bag": "drab tomato",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dull yellow",
+      "containedBy": [
+        {
+          "bag": "posh gold",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dim crimson",
+      "containedBy": [
+        {
+          "bag": "mirrored indigo",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "drab white",
+      "containedBy": [
+        {
+          "bag": "dim crimson",
+          "count": 3
+        },
+        {
+          "bag": "dull tan",
+          "count": 1
+        },
+        {
+          "bag": "mirrored gray",
+          "count": 3
+        },
+        {
+          "bag": "bright teal",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "posh red",
+      "containedBy": []
+    },
+    {
+      "bag": "drab turquoise",
+      "containedBy": []
+    },
+    {
+      "bag": "dark yellow",
+      "containedBy": [
+        {
+          "bag": "drab turquoise",
+          "count": 5
+        },
+        {
+          "bag": "dotted crimson",
+          "count": 3
+        },
+        {
+          "bag": "bright cyan",
+          "count": 3
+        },
+        {
+          "bag": "shiny yellow",
+          "count": 1
+        },
+        {
+          "bag": "dull olive",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "light bronze",
+      "containedBy": [
+        {
+          "bag": "muted cyan",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "vibrant blue",
+      "containedBy": [
+        {
+          "bag": "light bronze",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dotted cyan",
+      "containedBy": []
+    },
+    {
+      "bag": "faded purple",
+      "containedBy": [
+        {
+          "bag": "dotted cyan",
+          "count": 1
+        },
+        {
+          "bag": "pale yellow",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "drab crimson",
+      "containedBy": [
+        {
+          "bag": "dotted cyan",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "drab fuchsia",
+      "containedBy": [
+        {
+          "bag": "dull bronze",
+          "count": 5
+        },
+        {
+          "bag": "dotted gray",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "clear maroon",
+      "containedBy": []
+    },
+    {
+      "bag": "dotted white",
+      "containedBy": [
+        {
+          "bag": "clear maroon",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dull red",
+      "containedBy": [
+        {
+          "bag": "clear maroon",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "light green",
+      "containedBy": [
+        {
+          "bag": "dim salmon",
+          "count": 4
+        },
+        {
+          "bag": "light purple",
+          "count": 3
+        },
+        {
+          "bag": "plaid magenta",
+          "count": 2
+        },
+        {
+          "bag": "faded white",
+          "count": 4
+        },
+        {
+          "bag": "dull red",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "wavy aqua",
+      "containedBy": []
+    },
+    {
+      "bag": "dull tan",
+      "containedBy": [
+        {
+          "bag": "wavy aqua",
+          "count": 5
+        },
+        {
+          "bag": "striped magenta",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "pale beige",
+      "containedBy": [
+        {
+          "bag": "bright yellow",
+          "count": 1
+        },
+        {
+          "bag": "dull bronze",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "light teal",
+      "containedBy": [
+        {
+          "bag": "pale beige",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "light aqua",
+      "containedBy": []
+    },
+    {
+      "bag": "dim tan",
+      "containedBy": []
+    },
+    {
+      "bag": "light orange",
+      "containedBy": [
+        {
+          "bag": "dim tan",
+          "count": 5
+        },
+        {
+          "bag": "striped lime",
+          "count": 1
+        },
+        {
+          "bag": "wavy salmon",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "vibrant brown",
+      "containedBy": [
+        {
+          "bag": "muted coral",
+          "count": 4
+        },
+        {
+          "bag": "pale gray",
+          "count": 4
+        },
+        {
+          "bag": "faded lime",
+          "count": 2
+        },
+        {
+          "bag": "wavy purple",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "faded crimson",
+      "containedBy": [
+        {
+          "bag": "light magenta",
+          "count": 2
+        },
+        {
+          "bag": "striped violet",
+          "count": 2
+        },
+        {
+          "bag": "pale chartreuse",
+          "count": 4
+        },
+        {
+          "bag": "bright lime",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "mirrored turquoise",
+      "containedBy": [
+        {
+          "bag": "light magenta",
+          "count": 5
+        },
+        {
+          "bag": "drab coral",
+          "count": 4
+        },
+        {
+          "bag": "mirrored black",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "faded tomato",
+      "containedBy": [
+        {
+          "bag": "dull crimson",
+          "count": 2
+        },
+        {
+          "bag": "pale turquoise",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "wavy black",
+      "containedBy": [
+        {
+          "bag": "faded white",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dark cyan",
+      "containedBy": [
+        {
+          "bag": "wavy black",
+          "count": 3
+        },
+        {
+          "bag": "plaid aqua",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dim brown",
+      "containedBy": []
+    },
+    {
+      "bag": "muted indigo",
+      "containedBy": [
+        {
+          "bag": "light green",
+          "count": 3
+        },
+        {
+          "bag": "clear coral",
+          "count": 4
+        },
+        {
+          "bag": "wavy magenta",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "mirrored cyan",
+      "containedBy": [
+        {
+          "bag": "dull plum",
+          "count": 4
+        },
+        {
+          "bag": "posh violet",
+          "count": 5
+        },
+        {
+          "bag": "striped violet",
+          "count": 4
+        },
+        {
+          "bag": "plaid yellow",
+          "count": 5
+        },
+        {
+          "bag": "vibrant beige",
+          "count": 4
+        },
+        {
+          "bag": "bright purple",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "vibrant tan",
+      "containedBy": [
+        {
+          "bag": "dotted fuchsia",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "clear white",
+      "containedBy": [
+        {
+          "bag": "vibrant tan",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "shiny white",
+      "containedBy": []
+    },
+    {
+      "bag": "drab orange",
+      "containedBy": []
+    },
+    {
+      "bag": "striped green",
+      "containedBy": [
+        {
+          "bag": "dark blue",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "muted brown",
+      "containedBy": [
+        {
+          "bag": "striped green",
+          "count": 4
+        },
+        {
+          "bag": "muted silver",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "plaid brown",
+      "containedBy": [
+        {
+          "bag": "shiny indigo",
+          "count": 3
+        },
+        {
+          "bag": "dark yellow",
+          "count": 1
+        },
+        {
+          "bag": "dark magenta",
+          "count": 4
+        },
+        {
+          "bag": "mirrored teal",
+          "count": 5
+        },
+        {
+          "bag": "dull green",
+          "count": 3
+        },
+        {
+          "bag": "clear gold",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "drab yellow",
+      "containedBy": []
+    },
+    {
+      "bag": "faded black",
+      "containedBy": [
+        {
+          "bag": "drab yellow",
+          "count": 5
+        },
+        {
+          "bag": "vibrant blue",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "muted yellow",
+      "containedBy": [
+        {
+          "bag": "plaid cyan",
+          "count": 3
+        },
+        {
+          "bag": "dark bronze",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dark aqua",
+      "containedBy": [
+        {
+          "bag": "pale lavender",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dull blue",
+      "containedBy": [
+        {
+          "bag": "dark aqua",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "mirrored white",
+      "containedBy": [
+        {
+          "bag": "dark aqua",
+          "count": 5
+        },
+        {
+          "bag": "dotted purple",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "muted blue",
+      "containedBy": [
+        {
+          "bag": "dim white",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "muted coral",
+      "containedBy": []
+    },
+    {
+      "bag": "pale plum",
+      "containedBy": [
+        {
+          "bag": "muted coral",
+          "count": 1
+        },
+        {
+          "bag": "striped coral",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "muted green",
+      "containedBy": []
+    },
+    {
+      "bag": "dim violet",
+      "containedBy": [
+        {
+          "bag": "dotted indigo",
+          "count": 4
+        },
+        {
+          "bag": "posh tan",
+          "count": 3
+        },
+        {
+          "bag": "striped olive",
+          "count": 5
+        },
+        {
+          "bag": "vibrant turquoise",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "faded tan",
+      "containedBy": [
+        {
+          "bag": "dim violet",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "light yellow",
+      "containedBy": [
+        {
+          "bag": "dim violet",
+          "count": 1
+        },
+        {
+          "bag": "light chartreuse",
+          "count": 2
+        },
+        {
+          "bag": "dull gold",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "clear fuchsia",
+      "containedBy": []
+    },
+    {
+      "bag": "posh violet",
+      "containedBy": []
+    },
+    {
+      "bag": "dotted fuchsia",
+      "containedBy": []
+    },
+    {
+      "bag": "dotted plum",
+      "containedBy": []
+    },
+    {
+      "bag": "posh green",
+      "containedBy": [
+        {
+          "bag": "dotted plum",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "vibrant magenta",
+      "containedBy": []
+    },
+    {
+      "bag": "drab maroon",
+      "containedBy": [
+        {
+          "bag": "light blue",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "drab coral",
+      "containedBy": [
+        {
+          "bag": "drab maroon",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dotted tan",
+      "containedBy": [
+        {
+          "bag": "drab maroon",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "striped cyan",
+      "containedBy": []
+    },
+    {
+      "bag": "pale silver",
+      "containedBy": []
+    },
+    {
+      "bag": "striped silver",
+      "containedBy": [
+        {
+          "bag": "drab coral",
+          "count": 5
+        },
+        {
+          "bag": "mirrored white",
+          "count": 2
+        },
+        {
+          "bag": "plaid aqua",
+          "count": 4
+        },
+        {
+          "bag": "plaid lavender",
+          "count": 3
+        },
+        {
+          "bag": "mirrored chartreuse",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "vibrant chartreuse",
+      "containedBy": []
+    },
+    {
+      "bag": "bright turquoise",
+      "containedBy": [
+        {
+          "bag": "vibrant chartreuse",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "bright tan",
+      "containedBy": [
+        {
+          "bag": "pale maroon",
+          "count": 4
+        },
+        {
+          "bag": "shiny blue",
+          "count": 5
+        },
+        {
+          "bag": "striped blue",
+          "count": 4
+        },
+        {
+          "bag": "dull chartreuse",
+          "count": 2
+        },
+        {
+          "bag": "drab cyan",
+          "count": 4
+        },
+        {
+          "bag": "clear chartreuse",
+          "count": 2
+        },
+        {
+          "bag": "faded chartreuse",
+          "count": 4
+        },
+        {
+          "bag": "dull coral",
+          "count": 1
+        },
+        {
+          "bag": "bright aqua",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "mirrored green",
+      "containedBy": [
+        {
+          "bag": "muted teal",
+          "count": 1
+        },
+        {
+          "bag": "shiny salmon",
+          "count": 2
+        },
+        {
+          "bag": "vibrant black",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dim white",
+      "containedBy": [
+        {
+          "bag": "striped plum",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "muted white",
+      "containedBy": [
+        {
+          "bag": "dim white",
+          "count": 4
+        },
+        {
+          "bag": "plaid purple",
+          "count": 1
+        },
+        {
+          "bag": "drab aqua",
+          "count": 1
+        },
+        {
+          "bag": "bright lavender",
+          "count": 1
+        },
+        {
+          "bag": "pale cyan",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "posh maroon",
+      "containedBy": [
+        {
+          "bag": "dull yellow",
+          "count": 2
+        },
+        {
+          "bag": "mirrored chartreuse",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "posh chartreuse",
+      "containedBy": []
+    },
+    {
+      "bag": "pale lavender",
+      "containedBy": [
+        {
+          "bag": "vibrant aqua",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "light blue",
+      "containedBy": []
+    },
+    {
+      "bag": "dark gold",
+      "containedBy": [
+        {
+          "bag": "light orange",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "shiny fuchsia",
+      "containedBy": []
+    },
+    {
+      "bag": "muted orange",
+      "containedBy": [
+        {
+          "bag": "shiny fuchsia",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "shiny plum",
+      "containedBy": [
+        {
+          "bag": "shiny fuchsia",
+          "count": 2
+        },
+        {
+          "bag": "dotted tomato",
+          "count": 4
+        },
+        {
+          "bag": "vibrant crimson",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "posh blue",
+      "containedBy": []
+    },
+    {
+      "bag": "wavy magenta",
+      "containedBy": [
+        {
+          "bag": "posh blue",
+          "count": 1
+        },
+        {
+          "bag": "light cyan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "striped salmon",
+      "containedBy": []
+    },
+    {
+      "bag": "plaid silver",
+      "containedBy": [
+        {
+          "bag": "striped salmon",
+          "count": 5
+        },
+        {
+          "bag": "mirrored tomato",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dim bronze",
+      "containedBy": []
+    },
+    {
+      "bag": "dim tomato",
+      "containedBy": [
+        {
+          "bag": "muted cyan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "wavy indigo",
+      "containedBy": [
+        {
+          "bag": "dim tomato",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "wavy gold",
+      "containedBy": [
+        {
+          "bag": "dim tomato",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "vibrant white",
+      "containedBy": []
+    },
+    {
+      "bag": "dim magenta",
+      "containedBy": [
+        {
+          "bag": "vibrant white",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dark blue",
+      "containedBy": []
+    },
+    {
+      "bag": "plaid gray",
+      "containedBy": []
+    },
+    {
+      "bag": "faded gray",
+      "containedBy": [
+        {
+          "bag": "plaid gray",
+          "count": 4
+        },
+        {
+          "bag": "posh green",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "faded maroon",
+      "containedBy": [
+        {
+          "bag": "dotted red",
+          "count": 2
+        },
+        {
+          "bag": "posh gray",
+          "count": 3
+        },
+        {
+          "bag": "plaid orange",
+          "count": 2
+        },
+        {
+          "bag": "shiny bronze",
+          "count": 1
+        },
+        {
+          "bag": "dull teal",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "clear crimson",
+      "containedBy": []
+    },
+    {
+      "bag": "muted aqua",
+      "containedBy": [
+        {
+          "bag": "clear crimson",
+          "count": 4
+        },
+        {
+          "bag": "dark salmon",
+          "count": 1
+        },
+        {
+          "bag": "shiny red",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "mirrored brown",
+      "containedBy": [
+        {
+          "bag": "dull lavender",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dotted purple",
+      "containedBy": []
+    },
+    {
+      "bag": "dotted indigo",
+      "containedBy": []
+    },
+    {
+      "bag": "wavy orange",
+      "containedBy": []
+    },
+    {
+      "bag": "muted maroon",
+      "containedBy": [
+        {
+          "bag": "wavy orange",
+          "count": 4
+        },
+        {
+          "bag": "shiny green",
+          "count": 3
+        },
+        {
+          "bag": "striped coral",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "clear salmon",
+      "containedBy": [
+        {
+          "bag": "wavy orange",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "wavy turquoise",
+      "containedBy": []
+    },
+    {
+      "bag": "drab salmon",
+      "containedBy": [
+        {
+          "bag": "posh indigo",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "dotted yellow",
+      "containedBy": [
+        {
+          "bag": "drab salmon",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "mirrored aqua",
+      "containedBy": []
+    },
+    {
+      "bag": "shiny bronze",
+      "containedBy": [
+        {
+          "bag": "mirrored aqua",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "wavy tan",
+      "containedBy": []
+    },
+    {
+      "bag": "mirrored magenta",
+      "containedBy": []
+    },
+    {
+      "bag": "mirrored lime",
+      "containedBy": []
+    },
+    {
+      "bag": "clear magenta",
+      "containedBy": [
+        {
+          "bag": "light violet",
+          "count": 4
+        },
+        {
+          "bag": "plaid bronze",
+          "count": 3
+        },
+        {
+          "bag": "bright white",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "light red",
+      "containedBy": []
+    },
+    {
+      "bag": "light white",
+      "containedBy": [
+        {
+          "bag": "dim cyan",
+          "count": 5
+        },
+        {
+          "bag": "plaid beige",
+          "count": 2
+        },
+        {
+          "bag": "mirrored black",
+          "count": 3
+        },
+        {
+          "bag": "plaid white",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "vibrant salmon",
+      "containedBy": []
+    },
+    {
+      "bag": "dotted magenta",
+      "containedBy": []
+    },
+    {
+      "bag": "striped violet",
+      "containedBy": []
+    },
+    {
+      "bag": "muted magenta",
+      "containedBy": [
+        {
+          "bag": "dotted coral",
+          "count": 4
+        },
+        {
+          "bag": "mirrored black",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "muted turquoise",
+      "containedBy": [
+        {
+          "bag": "muted magenta",
+          "count": 2
+        },
+        {
+          "bag": "dark gold",
+          "count": 1
+        },
+        {
+          "bag": "dull green",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dim lime",
+      "containedBy": [
+        {
+          "bag": "dotted yellow",
+          "count": 4
+        },
+        {
+          "bag": "bright yellow",
+          "count": 3
+        },
+        {
+          "bag": "striped lime",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dotted maroon",
+      "containedBy": [
+        {
+          "bag": "faded chartreuse",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "light purple",
+      "containedBy": [
+        {
+          "bag": "dotted maroon",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "mirrored beige",
+      "containedBy": [
+        {
+          "bag": "light violet",
+          "count": 1
+        },
+        {
+          "bag": "light black",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "vibrant lavender",
+      "containedBy": []
+    },
+    {
+      "bag": "pale brown",
+      "containedBy": []
+    },
+    {
+      "bag": "vibrant fuchsia",
+      "containedBy": []
+    },
+    {
+      "bag": "dull silver",
+      "containedBy": []
+    },
+    {
+      "bag": "faded red",
+      "containedBy": [
+        {
+          "bag": "wavy gold",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "faded coral",
+      "containedBy": []
+    },
+    {
+      "bag": "shiny cyan",
+      "containedBy": []
+    },
+    {
+      "bag": "dim cyan",
+      "containedBy": [
+        {
+          "bag": "plaid yellow",
+          "count": 5
+        },
+        {
+          "bag": "vibrant aqua",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dotted tomato",
+      "containedBy": []
+    },
+    {
+      "bag": "muted cyan",
+      "containedBy": []
+    },
+    {
+      "bag": "pale white",
+      "containedBy": [
+        {
+          "bag": "dark bronze",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "shiny beige",
+      "containedBy": [
+        {
+          "bag": "plaid aqua",
+          "count": 4
+        },
+        {
+          "bag": "clear black",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "plaid maroon",
+      "containedBy": []
+    },
+    {
+      "bag": "dotted coral",
+      "containedBy": [
+        {
+          "bag": "plaid maroon",
+          "count": 2
+        },
+        {
+          "bag": "bright lime",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "light cyan",
+      "containedBy": []
+    },
+    {
+      "bag": "shiny tomato",
+      "containedBy": [
+        {
+          "bag": "light cyan",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "bag": "faded silver",
+      "containedBy": []
+    },
+    {
+      "bag": "posh tan",
+      "containedBy": []
+    },
+    {
+      "bag": "pale turquoise",
+      "containedBy": [
+        {
+          "bag": "posh tan",
+          "count": 4
+        },
+        {
+          "bag": "light yellow",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "muted silver",
+      "containedBy": [
+        {
+          "bag": "vibrant turquoise",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "clear coral",
+      "containedBy": []
+    },
+    {
+      "bag": "shiny tan",
+      "containedBy": []
+    },
+    {
+      "bag": "dark salmon",
+      "containedBy": [
+        {
+          "bag": "dim magenta",
+          "count": 2
+        },
+        {
+          "bag": "mirrored coral",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "plaid orange",
+      "containedBy": [
+        {
+          "bag": "dim fuchsia",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "dark indigo",
+      "containedBy": []
+    },
+    {
+      "bag": "dotted brown",
+      "containedBy": []
+    },
+    {
+      "bag": "wavy gray",
+      "containedBy": []
+    },
+    {
+      "bag": "posh crimson",
+      "containedBy": [
+        {
+          "bag": "dim plum",
+          "count": 2
+        },
+        {
+          "bag": "wavy brown",
+          "count": 3
+        },
+        {
+          "bag": "light lime",
+          "count": 1
+        },
+        {
+          "bag": "pale chartreuse",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "drab tomato",
+      "containedBy": []
+    },
+    {
+      "bag": "bright crimson",
+      "containedBy": []
+    },
+    {
+      "bag": "vibrant beige",
+      "containedBy": [
+        {
+          "bag": "dull magenta",
+          "count": 5
+        },
+        {
+          "bag": "dull blue",
+          "count": 2
+        },
+        {
+          "bag": "shiny maroon",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dim teal",
+      "containedBy": [
+        {
+          "bag": "plaid magenta",
+          "count": 1
+        },
+        {
+          "bag": "posh beige",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "striped olive",
+      "containedBy": []
+    },
+    {
+      "bag": "light black",
+      "containedBy": [
+        {
+          "bag": "striped maroon",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dull brown",
+      "containedBy": [
+        {
+          "bag": "dotted chartreuse",
+          "count": 2
+        },
+        {
+          "bag": "wavy purple",
+          "count": 1
+        },
+        {
+          "bag": "faded indigo",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "shiny salmon",
+      "containedBy": []
+    },
+    {
+      "bag": "clear aqua",
+      "containedBy": [
+        {
+          "bag": "clear salmon",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "clear lime",
+      "containedBy": []
+    },
+    {
+      "bag": "dull indigo",
+      "containedBy": []
+    },
+    {
+      "bag": "shiny aqua",
+      "containedBy": []
+    },
+    {
+      "bag": "wavy cyan",
+      "containedBy": [
+        {
+          "bag": "shiny aqua",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dull bronze",
+      "containedBy": []
+    },
+    {
+      "bag": "striped coral",
+      "containedBy": []
+    },
+    {
+      "bag": "vibrant tomato",
+      "containedBy": []
+    },
+    {
+      "bag": "dotted chartreuse",
+      "containedBy": []
+    },
+    {
+      "bag": "dull turquoise",
+      "containedBy": []
+    },
+    {
+      "bag": "plaid lavender",
+      "containedBy": []
+    },
+    {
+      "bag": "wavy white",
+      "containedBy": []
+    },
+    {
+      "bag": "dim blue",
+      "containedBy": [
+        {
+          "bag": "dark chartreuse",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "shiny red",
+      "containedBy": []
+    },
+    {
+      "bag": "pale aqua",
+      "containedBy": []
+    },
+    {
+      "bag": "clear chartreuse",
+      "containedBy": []
+    },
+    {
+      "bag": "plaid white",
+      "containedBy": [
+        {
+          "bag": "pale turquoise",
+          "count": 3
+        },
+        {
+          "bag": "drab silver",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "bag": "dotted blue",
+      "containedBy": []
+    },
+    {
+      "bag": "bright plum",
+      "containedBy": [
+        {
+          "bag": "mirrored black",
+          "count": 4
+        },
+        {
+          "bag": "muted aqua",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "pale black",
+      "containedBy": []
+    },
+    {
+      "bag": "striped magenta",
+      "containedBy": []
+    },
+    {
+      "bag": "light crimson",
+      "containedBy": []
+    },
+    {
+      "bag": "dark tan",
+      "containedBy": []
+    },
+    {
+      "bag": "drab olive",
+      "containedBy": [
+        {
+          "bag": "dark gray",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "wavy violet",
+      "containedBy": []
+    },
+    {
+      "bag": "faded white",
+      "containedBy": [
+        {
+          "bag": "wavy coral",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "mirrored purple",
+      "containedBy": [
+        {
+          "bag": "dull red",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "bag": "mirrored gray",
+      "containedBy": []
+    },
+    {
+      "bag": "dark gray",
+      "containedBy": []
+    },
+    {
+      "bag": "pale indigo",
+      "containedBy": []
+    },
+    {
+      "bag": "bright white",
+      "containedBy": []
+    },
+    {
+      "bag": "striped lime",
+      "containedBy": []
+    },
+    {
+      "bag": "mirrored tomato",
+      "containedBy": []
+    },
+    {
+      "bag": "wavy coral",
+      "containedBy": []
+    },
+    {
+      "bag": "dim fuchsia",
+      "containedBy": []
+    },
+    {
+      "bag": "light lime",
+      "containedBy": []
+    },
+    {
+      "bag": "mirrored red",
+      "containedBy": []
+    },
+    {
+      "bag": "light chartreuse",
+      "containedBy": []
+    },
+    {
+      "bag": "wavy salmon",
+      "containedBy": []
+    },
+    {
+      "bag": "faded chartreuse",
+      "containedBy": []
+    },
+    {
+      "bag": "posh beige",
+      "containedBy": []
+    },
+    {
+      "bag": "vibrant aqua",
+      "containedBy": []
+    },
+    {
+      "bag": "wavy olive",
+      "containedBy": []
+    },
+    {
+      "bag": "dotted gray",
+      "containedBy": []
+    },
+    {
+      "bag": "mirrored salmon",
+      "containedBy": []
+    },
+    {
+      "bag": "faded orange",
+      "containedBy": []
+    },
+    {
+      "bag": "pale orange",
+      "containedBy": []
+    },
+    {
+      "bag": "posh teal",
+      "containedBy": []
+    },
+    {
+      "bag": "bright teal",
+      "containedBy": []
+    },
+    {
+      "bag": "striped maroon",
+      "containedBy": []
+    },
+    {
+      "bag": "drab violet",
+      "containedBy": [
+        {
+          "bag": "striped maroon",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "pale magenta",
+      "containedBy": []
+    },
+    {
+      "bag": "shiny maroon",
+      "containedBy": []
+    },
+    {
+      "bag": "vibrant turquoise",
+      "containedBy": [
+        {
+          "bag": "shiny maroon",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "bag": "dark black",
+      "containedBy": []
+    },
+    {
+      "bag": "faded plum",
+      "containedBy": [
+        {
+          "bag": "bright beige",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "bag": "dotted black",
+      "containedBy": []
+    },
+    {
+      "bag": "mirrored coral",
+      "containedBy": []
+    },
+    {
+      "bag": "muted chartreuse",
+      "containedBy": []
+    },
+    {
+      "bag": "clear plum",
+      "containedBy": []
+    },
+    {
+      "bag": "faded bronze",
+      "containedBy": []
+    },
+    {
+      "bag": "bright lime",
+      "containedBy": []
+    },
+    {
+      "bag": "dull olive",
+      "containedBy": []
+    },
+    {
+      "bag": "posh indigo",
+      "containedBy": []
+    },
+    {
+      "bag": "striped plum",
+      "containedBy": []
+    },
+    {
+      "bag": "dim lavender",
+      "containedBy": []
+    }
+]
