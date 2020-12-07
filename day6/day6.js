@@ -9,9 +9,9 @@
  * 
  * @param {string}          file            Input file
  * 
- * @return {string[]}       Array of string from file lines
+ * @return {string}         File content
  */
-function getInputs(file) {
+function getInput(file) {
     const fs = require('fs');
     return fs.readFileSync(file, 'utf8').toString();
 }
@@ -66,7 +66,7 @@ function commonYesAnswerCount(input) {
 
 
 function main() {
-    const input = getInputs("./input.txt");
+    const input = getInput("./input.txt");
     console.log("Part 1 : Yes count = " + yesAnswerCount(input));
     console.log("Part 2 : Common yes count = " + commonYesAnswerCount(input));
 }

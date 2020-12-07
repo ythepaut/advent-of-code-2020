@@ -7,11 +7,11 @@
 /**
  * Gets input from file
  * 
- * @param {string}         file         Input file
+ * @param {string}          file         Input file
  * 
- * @return {string[]}      Array of string from file lines
+ * @return {string}         File content
  */
-function getInputs(file) {
+function getInput(file) {
     const fs = require('fs');
     return fs.readFileSync(file, 'utf8').toString();
 }
@@ -112,7 +112,7 @@ function isValidPassport2(passport) {
 
 function main() {
 
-    const passports = getPassports(getInputs("./input.txt"));
+    const passports = getPassports(getInput("./input.txt"));
 
     let validCount1 = 0;
     let validCount2 = 0;
